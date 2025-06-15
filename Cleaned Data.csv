@@ -1,0 +1,975 @@
+,Age,State,MTN Device,Gender,Satisfaction Rate,Customer Review,Customer Tenure in months,Subscription Plan,Unit Price,Number of Times Purchased,Data Usage,Customer Churn Status,Reasons for Churn
+0,27,Kwara,4G Router,Male,2,Fair,2,165GB Monthly Plan,35000,19,44.48,Yes,Relocation
+1,16,Abuja (FCT),Mobile SIM Card,Female,2,Fair,22,12.5GB Monthly Plan,5500,12,19.79,Yes,Better Offers from Competitors
+2,21,Sokoto,5G Broadband Router,Male,1,Poor,60,150GB FUP Monthly Unlimited,20000,8,9.64,No,
+3,21,Sokoto,Mobile SIM Card,Male,1,Poor,60,1GB+1.5mins Daily Plan,500,8,197.05,No,
+4,21,Sokoto,Broadband MiFi,Male,1,Poor,60,30GB Monthly Broadband Plan,9000,15,76.34,No,
+5,36,Gombe,4G Router,Female,1,Poor,14,10GB+10mins Monthly Plan,4500,9,92.72,No,
+6,57,Oyo,4G Router,Male,3,Good,53,25GB Monthly Plan,9000,16,42.92,No,
+7,74,Plateau,Mobile SIM Card,Female,5,Excellent,9,7GB Monthly Plan,3500,5,44.25,No,
+8,74,Plateau,5G Broadband Router,Female,5,Excellent,9,1.5TB Yearly Broadband Plan,150000,2,18.64,No,
+9,74,Plateau,4G Router,Female,5,Excellent,9,65GB Monthly Plan,16000,6,30.99,No,
+10,24,Jigawa,Broadband MiFi,Female,5,Excellent,39,120GB Monthly Broadband Plan,24000,11,150.3,Yes,Relocation
+11,53,Kwara,Broadband MiFi,Male,3,Good,30,300GB FUP Monthly Unlimited,30000,17,168.41,No,
+12,35,Gombe,Broadband MiFi,Male,5,Excellent,35,300GB FUP Monthly Unlimited,30000,10,175.81,No,
+13,23,Imo,4G Router,Male,1,Poor,6,10GB+10mins Monthly Plan,4500,20,53.38,No,
+14,23,Imo,Broadband MiFi,Male,1,Poor,6,60GB Monthly Broadband Plan,14500,18,192.89,No,
+15,23,Imo,Mobile SIM Card,Male,1,Poor,6,500MB Daily Plan,350,13,142.73,No,
+16,72,Bauchi,4G Router,Female,2,Fair,8,65GB Monthly Plan,16000,2,14.66,Yes,Poor Network
+17,72,Bauchi,5G Broadband Router,Female,2,Fair,8,60GB Monthly Broadband Plan,14500,2,13.95,Yes,Poor Network
+18,72,Bauchi,Broadband MiFi,Female,2,Fair,8,300GB FUP Monthly Unlimited,30000,8,14.64,Yes,Poor Network
+19,78,Ondo,4G Router,Male,2,Fair,47,65GB Monthly Plan,16000,12,131.97,No,
+20,78,Ondo,Broadband MiFi,Male,2,Fair,47,60GB Monthly Broadband Plan,14500,2,82.51,No,
+21,23,Kebbi,4G Router,Female,2,Fair,52,10GB+10mins Monthly Plan,4500,8,56.07,Yes,Relocation
+22,23,Kebbi,Mobile SIM Card,Female,2,Fair,52,3.2GB 2-Day Plan,1000,18,88.9,Yes,Relocation
+23,22,Adamawa,4G Router,Male,2,Fair,6,65GB Monthly Plan,16000,1,33.35,No,
+24,22,Adamawa,Mobile SIM Card,Male,2,Fair,6,20GB Monthly Plan,7500,15,53.41,No,
+25,70,Yobe,Broadband MiFi,Male,2,Fair,13,30GB Monthly Broadband Plan,9000,16,10.5,No,
+26,70,Yobe,5G Broadband Router,Male,2,Fair,13,300GB FUP Monthly Unlimited,30000,17,11.85,No,
+27,70,Yobe,4G Router,Male,2,Fair,13,65GB Monthly Plan,16000,3,170.34,No,
+28,46,Kebbi,Broadband MiFi,Male,5,Excellent,57,300GB FUP Monthly Unlimited,30000,11,41.25,No,
+29,46,Kebbi,4G Router,Male,5,Excellent,57,10GB+10mins Monthly Plan,4500,5,53.49,No,
+30,46,Kebbi,5G Broadband Router,Male,5,Excellent,57,120GB Monthly Broadband Plan,24000,3,91.72,No,
+31,74,Anambra,4G Router,Male,5,Excellent,35,25GB Monthly Plan,9000,15,57.35,Yes,Costly Data Plans
+32,54,Bauchi,5G Broadband Router,Male,1,Poor,43,150GB FUP Monthly Unlimited,20000,18,178.0,No,
+33,50,Cross River,Mobile SIM Card,Male,2,Fair,46,2.5GB 2-Day Plan,900,14,18.91,No,
+34,50,Cross River,4G Router,Male,2,Fair,46,25GB Monthly Plan,9000,11,9.3,No,
+35,49,Abuja (FCT),4G Router,Female,5,Excellent,36,25GB Monthly Plan,9000,5,116.71,Yes,Poor Network
+36,49,Abuja (FCT),5G Broadband Router,Female,5,Excellent,36,450GB 3-Month Broadband Plan,75000,10,25.93,Yes,Poor Network
+37,49,Abuja (FCT),Broadband MiFi,Female,5,Excellent,36,300GB FUP Monthly Unlimited,30000,2,179.85,Yes,Poor Network
+38,42,Imo,Mobile SIM Card,Male,5,Excellent,23,10GB+10mins Monthly Plan,4500,1,176.34,No,
+39,58,Kogi,Mobile SIM Card,Male,1,Poor,18,500MB Daily Plan,350,15,40.31,No,
+40,55,Osun,5G Broadband Router,Male,4,Very Good,2,200GB Monthly Broadband Plan,25000,13,128.48,No,
+41,58,Kano,Broadband MiFi,Male,2,Fair,57,120GB Monthly Broadband Plan,24000,11,87.2,No,
+42,58,Kano,Mobile SIM Card,Male,2,Fair,57,20GB Monthly Plan,7500,17,121.44,No,
+43,65,Benue,4G Router,Female,1,Poor,3,65GB Monthly Plan,16000,11,189.8,No,
+44,65,Benue,Mobile SIM Card,Female,1,Poor,3,7GB Monthly Plan,3500,4,132.85,No,
+45,65,Benue,5G Broadband Router,Female,1,Poor,3,120GB Monthly Broadband Plan,24000,14,101.67,No,
+46,67,Cross River,5G Broadband Router,Male,4,Very Good,13,450GB 3-Month Broadband Plan,75000,1,109.81,No,
+47,52,Ondo,4G Router,Female,4,Very Good,51,10GB+10mins Monthly Plan,4500,10,131.94,No,
+48,52,Ondo,5G Broadband Router,Female,4,Very Good,51,200GB Monthly Broadband Plan,25000,8,19.13,No,
+49,52,Ondo,Mobile SIM Card,Female,4,Very Good,51,1GB+1.5mins Daily Plan,500,7,45.32,No,
+50,19,Rivers,Mobile SIM Card,Male,4,Very Good,31,10GB+10mins Monthly Plan,4500,5,80.23,No,
+51,19,Rivers,Mobile SIM Card,Male,4,Very Good,31,2.5GB 2-Day Plan,900,4,178.59,No,
+52,44,Enugu,5G Broadband Router,Female,1,Poor,4,450GB 3-Month Broadband Plan,75000,18,166.2,No,
+53,44,Enugu,4G Router,Female,1,Poor,4,165GB Monthly Plan,35000,16,179.49,No,
+54,49,Imo,5G Broadband Router,Female,2,Fair,50,200GB Monthly Broadband Plan,25000,18,64.28,Yes,Poor Network
+55,49,Imo,Broadband MiFi,Female,2,Fair,50,30GB Monthly Broadband Plan,9000,8,28.11,Yes,Poor Network
+56,49,Imo,4G Router,Female,2,Fair,50,165GB Monthly Plan,35000,7,138.94,Yes,Poor Network
+57,69,Kogi,Mobile SIM Card,Female,4,Very Good,35,2.5GB 2-Day Plan,900,19,171.42,Yes,Better Offers from Competitors
+58,69,Kogi,5G Broadband Router,Female,4,Very Good,35,450GB 3-Month Broadband Plan,75000,12,95.66,Yes,Better Offers from Competitors
+59,65,Kogi,Mobile SIM Card,Male,3,Good,32,7GB Monthly Plan,3500,13,133.94,No,
+60,75,Borno,Broadband MiFi,Male,5,Excellent,59,60GB Monthly Broadband Plan,14500,15,27.57,No,
+61,22,Edo,5G Broadband Router,Female,4,Very Good,21,120GB Monthly Broadband Plan,24000,16,167.06,No,
+62,22,Edo,Mobile SIM Card,Female,4,Very Good,21,65GB Monthly Plan,16000,2,149.93,No,
+63,44,Kaduna,4G Router,Male,2,Fair,49,165GB Monthly Plan,35000,19,134.06,Yes,Poor Network
+64,44,Kaduna,Broadband MiFi,Male,2,Fair,49,150GB FUP Monthly Unlimited,20000,9,93.27,Yes,Poor Network
+65,44,Kaduna,5G Broadband Router,Male,2,Fair,49,200GB Monthly Broadband Plan,25000,20,33.97,Yes,Poor Network
+66,36,Abia,Mobile SIM Card,Male,3,Good,38,500MB Daily Plan,350,8,15.66,No,
+67,36,Abia,5G Broadband Router,Male,3,Good,38,150GB FUP Monthly Unlimited,20000,10,139.59,No,
+68,21,Ekiti,Broadband MiFi,Female,1,Poor,43,60GB Monthly Broadband Plan,14500,12,21.56,No,
+69,21,Ekiti,4G Router,Female,1,Poor,43,165GB Monthly Plan,35000,14,141.61,No,
+70,50,Adamawa,Broadband MiFi,Female,5,Excellent,30,300GB FUP Monthly Unlimited,30000,8,176.39,Yes,Better Offers from Competitors
+71,64,Bayelsa,5G Broadband Router,Male,2,Fair,32,120GB Monthly Broadband Plan,24000,9,176.12,No,
+72,64,Bayelsa,Mobile SIM Card,Male,2,Fair,32,65GB Monthly Plan,16000,7,103.57,No,
+73,46,Kogi,Mobile SIM Card,Female,4,Very Good,36,3.2GB 2-Day Plan,1000,13,59.2,No,
+74,46,Kogi,Broadband MiFi,Female,4,Very Good,36,150GB FUP Monthly Unlimited,20000,19,61.59,No,
+75,76,Bauchi,5G Broadband Router,Female,3,Good,28,60GB Monthly Broadband Plan,14500,7,24.57,No,
+76,76,Bauchi,Mobile SIM Card,Female,3,Good,28,25GB Monthly Plan,9000,18,24.35,No,
+77,40,Ondo,4G Router,Female,1,Poor,18,10GB+10mins Monthly Plan,4500,18,60.8,No,
+78,40,Ondo,Mobile SIM Card,Female,1,Poor,18,1.5GB 2-Day Plan,600,2,55.23,No,
+79,32,Yobe,5G Broadband Router,Male,5,Excellent,56,30GB Monthly Broadband Plan,9000,16,50.87,Yes,Fast Data Consumption
+80,32,Yobe,Broadband MiFi,Male,5,Excellent,56,30GB Monthly Broadband Plan,9000,13,164.51,Yes,Fast Data Consumption
+81,25,Oyo,Mobile SIM Card,Male,1,Poor,10,500MB Daily Plan,350,13,155.25,No,
+82,72,Abia,4G Router,Female,5,Excellent,20,10GB+10mins Monthly Plan,4500,3,53.3,No,
+83,46,Enugu,Mobile SIM Card,Male,4,Very Good,11,500MB Daily Plan,350,10,57.98,No,
+84,46,Enugu,4G Router,Male,4,Very Good,11,165GB Monthly Plan,35000,8,14.7,No,
+85,46,Enugu,Broadband MiFi,Male,4,Very Good,11,300GB FUP Monthly Unlimited,30000,19,157.67,No,
+86,70,Delta,Broadband MiFi,Male,3,Good,42,150GB FUP Monthly Unlimited,20000,20,158.63,No,
+87,72,Delta,Mobile SIM Card,Female,4,Very Good,45,2.5GB 2-Day Plan,900,11,177.94,No,
+88,72,Delta,4G Router,Female,4,Very Good,45,25GB Monthly Plan,9000,8,5.66,No,
+89,72,Delta,Broadband MiFi,Female,4,Very Good,45,120GB Monthly Broadband Plan,24000,1,117.63,No,
+90,21,Enugu,Mobile SIM Card,Female,3,Good,34,12.5GB Monthly Plan,5500,11,69.92,Yes,Relocation
+91,21,Enugu,Broadband MiFi,Female,3,Good,34,300GB FUP Monthly Unlimited,30000,6,134.19,Yes,Relocation
+92,68,Yobe,5G Broadband Router,Female,5,Excellent,43,150GB FUP Monthly Unlimited,20000,13,194.05,Yes,Poor Network
+93,68,Yobe,4G Router,Female,5,Excellent,43,65GB Monthly Plan,16000,18,131.7,Yes,Poor Network
+94,68,Oyo,Mobile SIM Card,Male,5,Excellent,34,1GB+1.5mins Daily Plan,500,10,110.07,No,
+95,68,Oyo,Broadband MiFi,Male,5,Excellent,34,60GB Monthly Broadband Plan,14500,16,176.23,No,
+96,68,Oyo,5G Broadband Router,Male,5,Excellent,34,150GB FUP Monthly Unlimited,20000,20,6.26,No,
+97,36,Abia,Mobile SIM Card,Male,1,Poor,36,3.2GB 2-Day Plan,1000,5,129.72,Yes,Better Offers from Competitors
+98,53,Zamfara,Mobile SIM Card,Female,4,Very Good,27,500MB Daily Plan,350,17,184.41,Yes,Relocation
+99,24,Akwa Ibom,Mobile SIM Card,Female,1,Poor,22,16.5GB+10mins Monthly Plan,6500,11,97.13,Yes,Costly Data Plans
+100,24,Akwa Ibom,Broadband MiFi,Female,1,Poor,22,120GB Monthly Broadband Plan,24000,13,152.69,Yes,Costly Data Plans
+101,24,Akwa Ibom,Mobile SIM Card,Female,1,Poor,22,165GB Monthly Plan,35000,7,186.6,Yes,Costly Data Plans
+102,65,Osun,Mobile SIM Card,Female,4,Very Good,3,1.5GB 2-Day Plan,600,2,99.32,No,
+103,65,Osun,5G Broadband Router,Female,4,Very Good,3,300GB FUP Monthly Unlimited,30000,19,100.71,No,
+104,28,Nasarawa,Mobile SIM Card,Male,1,Poor,34,165GB Monthly Plan,35000,9,156.41,No,
+105,28,Nasarawa,Broadband MiFi,Male,1,Poor,34,300GB FUP Monthly Unlimited,30000,13,124.84,No,
+106,58,Adamawa,5G Broadband Router,Female,5,Excellent,21,60GB Monthly Broadband Plan,14500,14,149.48,Yes,Poor Network
+107,28,Nasarawa,5G Broadband Router,Male,1,Poor,45,200GB Monthly Broadband Plan,25000,5,75.28,Yes,Better Offers from Competitors
+108,68,Enugu,4G Router,Male,5,Excellent,12,10GB+10mins Monthly Plan,4500,9,92.5,No,
+109,68,Enugu,Mobile SIM Card,Male,5,Excellent,12,12.5GB Monthly Plan,5500,1,51.44,No,
+110,68,Enugu,Broadband MiFi,Male,5,Excellent,12,60GB Monthly Broadband Plan,14500,18,180.29,No,
+111,25,Nasarawa,5G Broadband Router,Female,4,Very Good,38,450GB 3-Month Broadband Plan,75000,4,170.74,No,
+112,25,Nasarawa,Broadband MiFi,Female,4,Very Good,38,150GB FUP Monthly Unlimited,20000,12,76.58,No,
+113,53,Kano,Broadband MiFi,Female,5,Excellent,18,300GB FUP Monthly Unlimited,30000,8,155.26,No,
+114,53,Kano,5G Broadband Router,Female,5,Excellent,18,200GB Monthly Broadband Plan,25000,7,44.19,No,
+115,53,Kano,4G Router,Female,5,Excellent,18,25GB Monthly Plan,9000,5,135.71,No,
+116,21,Abia,Mobile SIM Card,Female,2,Fair,3,500MB Daily Plan,350,18,26.87,Yes,Costly Data Plans
+117,21,Abia,Broadband MiFi,Female,2,Fair,3,300GB FUP Monthly Unlimited,30000,9,106.41,Yes,Costly Data Plans
+118,48,Taraba,4G Router,Female,1,Poor,48,10GB+10mins Monthly Plan,4500,13,172.1,No,
+119,27,Kebbi,5G Broadband Router,Male,4,Very Good,17,200GB Monthly Broadband Plan,25000,8,22.12,No,
+120,27,Kebbi,Mobile SIM Card,Male,4,Very Good,17,12.5GB Monthly Plan,5500,18,5.49,No,
+121,27,Kebbi,4G Router,Male,4,Very Good,17,25GB Monthly Plan,9000,8,183.09,No,
+122,75,Abia,Mobile SIM Card,Female,1,Poor,8,3.2GB 2-Day Plan,1000,18,47.34,No,
+123,75,Abia,Broadband MiFi,Female,1,Poor,8,150GB FUP Monthly Unlimited,20000,12,78.03,No,
+124,69,Plateau,Broadband MiFi,Female,4,Very Good,42,300GB FUP Monthly Unlimited,30000,15,43.85,No,
+125,69,Plateau,5G Broadband Router,Female,4,Very Good,42,60GB Monthly Broadband Plan,14500,4,171.16,No,
+126,61,Oyo,Broadband MiFi,Female,1,Poor,18,150GB FUP Monthly Unlimited,20000,20,128.52,No,
+127,61,Oyo,5G Broadband Router,Female,1,Poor,18,30GB Monthly Broadband Plan,9000,11,10.59,No,
+128,32,Ondo,5G Broadband Router,Male,5,Excellent,54,300GB FUP Monthly Unlimited,30000,20,157.83,Yes,Better Offers from Competitors
+129,51,Plateau,4G Router,Male,2,Fair,35,65GB Monthly Plan,16000,8,71.97,Yes,Better Offers from Competitors
+130,18,Enugu,4G Router,Female,4,Very Good,4,10GB+10mins Monthly Plan,4500,4,102.89,No,
+131,80,Osun,Broadband MiFi,Male,4,Very Good,47,60GB Monthly Broadband Plan,14500,14,169.54,No,
+132,78,Nasarawa,4G Router,Male,3,Good,58,25GB Monthly Plan,9000,19,125.05,No,
+133,64,Bauchi,Mobile SIM Card,Female,1,Poor,30,165GB Monthly Plan,35000,8,90.59,No,
+134,59,Sokoto,5G Broadband Router,Female,3,Good,27,1.5TB Yearly Broadband Plan,150000,3,13.89,No,
+135,59,Sokoto,4G Router,Female,3,Good,27,65GB Monthly Plan,16000,12,86.66,No,
+136,59,Sokoto,Broadband MiFi,Female,3,Good,27,150GB FUP Monthly Unlimited,20000,19,111.5,No,
+137,31,Kogi,5G Broadband Router,Female,1,Poor,56,60GB Monthly Broadband Plan,14500,16,31.37,No,
+138,31,Kogi,4G Router,Female,1,Poor,56,10GB+10mins Monthly Plan,4500,12,169.53,No,
+139,31,Kogi,Broadband MiFi,Female,1,Poor,56,120GB Monthly Broadband Plan,24000,9,73.83,No,
+140,70,Kano,5G Broadband Router,Female,3,Good,2,30GB Monthly Broadband Plan,9000,5,36.69,No,
+141,70,Kano,4G Router,Female,3,Good,2,165GB Monthly Plan,35000,1,14.38,No,
+142,43,Jigawa,5G Broadband Router,Female,2,Fair,30,30GB Monthly Broadband Plan,9000,20,31.54,No,
+143,43,Jigawa,Mobile SIM Card,Female,2,Fair,30,2.5GB 2-Day Plan,900,9,134.96,No,
+144,43,Jigawa,Broadband MiFi,Female,2,Fair,30,60GB Monthly Broadband Plan,14500,16,132.56,No,
+145,69,Akwa Ibom,Mobile SIM Card,Male,3,Good,49,1GB+1.5mins Daily Plan,500,13,9.56,No,
+146,69,Akwa Ibom,5G Broadband Router,Male,3,Good,49,30GB Monthly Broadband Plan,9000,10,2.03,No,
+147,33,Edo,Mobile SIM Card,Female,1,Poor,21,165GB Monthly Plan,35000,8,106.75,No,
+148,33,Edo,Broadband MiFi,Female,1,Poor,21,120GB Monthly Broadband Plan,24000,12,111.97,No,
+149,66,Rivers,Mobile SIM Card,Female,1,Poor,2,20GB Monthly Plan,7500,13,58.26,No,
+150,66,Rivers,5G Broadband Router,Female,1,Poor,2,30GB Monthly Broadband Plan,9000,6,193.26,No,
+151,66,Rivers,4G Router,Female,1,Poor,2,165GB Monthly Plan,35000,12,166.49,No,
+152,71,Anambra,5G Broadband Router,Male,5,Excellent,28,200GB Monthly Broadband Plan,25000,3,155.93,Yes,Better Offers from Competitors
+153,71,Anambra,Broadband MiFi,Male,5,Excellent,28,120GB Monthly Broadband Plan,24000,17,126.83,Yes,Better Offers from Competitors
+154,40,Ekiti,4G Router,Female,2,Fair,47,10GB+10mins Monthly Plan,4500,3,152.16,Yes,Costly Data Plans
+155,79,Sokoto,Mobile SIM Card,Female,3,Good,44,1GB+1.5mins Daily Plan,500,19,159.37,Yes,Poor Network
+156,79,Sokoto,5G Broadband Router,Female,3,Good,44,30GB Monthly Broadband Plan,9000,3,70.71,Yes,Poor Network
+157,75,Nasarawa,Mobile SIM Card,Male,3,Good,4,12.5GB Monthly Plan,5500,2,116.28,Yes,Better Offers from Competitors
+158,40,Niger,Broadband MiFi,Female,1,Poor,33,150GB FUP Monthly Unlimited,20000,15,8.31,No,
+159,40,Niger,5G Broadband Router,Female,1,Poor,33,1.5TB Yearly Broadband Plan,150000,20,105.05,No,
+160,62,Gombe,5G Broadband Router,Female,3,Good,25,150GB FUP Monthly Unlimited,20000,18,66.27,No,
+161,52,Edo,5G Broadband Router,Male,5,Excellent,22,450GB 3-Month Broadband Plan,75000,3,26.23,No,
+162,52,Edo,Mobile SIM Card,Male,5,Excellent,22,1GB+1.5mins Daily Plan,500,11,112.0,No,
+163,27,Kwara,Mobile SIM Card,Female,3,Good,2,500MB Daily Plan,350,5,200.0,Yes,Poor Customer Service
+164,27,Kwara,Broadband MiFi,Female,3,Good,2,30GB Monthly Broadband Plan,9000,4,59.51,Yes,Poor Customer Service
+165,20,Bayelsa,4G Router,Male,2,Fair,39,65GB Monthly Plan,16000,8,82.47,Yes,Better Offers from Competitors
+166,20,Bayelsa,5G Broadband Router,Male,2,Fair,39,1.5TB Yearly Broadband Plan,150000,15,122.31,Yes,Better Offers from Competitors
+167,20,Bayelsa,Mobile SIM Card,Male,2,Fair,39,500MB Daily Plan,350,10,107.04,Yes,Better Offers from Competitors
+168,40,Gombe,Mobile SIM Card,Female,4,Very Good,30,10GB+10mins Monthly Plan,4500,2,174.66,No,
+169,40,Gombe,Broadband MiFi,Female,4,Very Good,30,60GB Monthly Broadband Plan,14500,18,174.89,No,
+170,31,Cross River,4G Router,Male,3,Good,49,10GB+10mins Monthly Plan,4500,12,163.43,No,
+171,31,Cross River,Mobile SIM Card,Male,3,Good,49,2.5GB 2-Day Plan,900,13,83.27,No,
+172,31,Cross River,Broadband MiFi,Male,3,Good,49,120GB Monthly Broadband Plan,24000,13,75.11,No,
+173,63,Osun,Broadband MiFi,Male,3,Good,21,300GB FUP Monthly Unlimited,30000,16,183.52,No,
+174,76,Nasarawa,Mobile SIM Card,Male,1,Poor,58,3.2GB 2-Day Plan,1000,8,155.35,Yes,Better Offers from Competitors
+175,31,Oyo,Broadband MiFi,Male,1,Poor,27,150GB FUP Monthly Unlimited,20000,1,58.61,Yes,Fast Data Consumption
+176,31,Oyo,5G Broadband Router,Male,1,Poor,27,200GB Monthly Broadband Plan,25000,14,48.49,Yes,Fast Data Consumption
+177,31,Oyo,Mobile SIM Card,Male,1,Poor,27,1.5GB 2-Day Plan,600,3,133.04,Yes,Fast Data Consumption
+178,62,Kaduna,5G Broadband Router,Male,1,Poor,25,30GB Monthly Broadband Plan,9000,3,71.74,No,
+179,62,Kaduna,Mobile SIM Card,Male,1,Poor,25,7GB Monthly Plan,3500,4,48.6,No,
+180,33,Rivers,Mobile SIM Card,Female,2,Fair,35,1.5GB 2-Day Plan,600,3,162.39,No,
+181,33,Rivers,5G Broadband Router,Female,2,Fair,35,1.5TB Yearly Broadband Plan,150000,7,7.88,No,
+182,33,Rivers,4G Router,Female,2,Fair,35,65GB Monthly Plan,16000,2,158.33,No,
+183,55,Zamfara,5G Broadband Router,Female,3,Good,53,200GB Monthly Broadband Plan,25000,2,172.5,Yes,High Call Tarriffs
+184,50,Delta,5G Broadband Router,Female,4,Very Good,28,1.5TB Yearly Broadband Plan,150000,12,138.57,No,
+185,50,Delta,Broadband MiFi,Female,4,Very Good,28,120GB Monthly Broadband Plan,24000,3,53.71,No,
+186,26,Kwara,5G Broadband Router,Male,3,Good,35,450GB 3-Month Broadband Plan,75000,15,33.75,Yes,Costly Data Plans
+187,26,Kwara,4G Router,Male,3,Good,35,25GB Monthly Plan,9000,12,89.7,Yes,Costly Data Plans
+188,26,Kwara,Mobile SIM Card,Male,3,Good,35,20GB Monthly Plan,7500,2,55.27,Yes,Costly Data Plans
+189,67,Gombe,Broadband MiFi,Male,5,Excellent,2,30GB Monthly Broadband Plan,9000,12,47.58,No,
+190,67,Gombe,Mobile SIM Card,Male,5,Excellent,2,7GB Monthly Plan,3500,19,76.88,No,
+191,35,Nasarawa,5G Broadband Router,Female,1,Poor,24,120GB Monthly Broadband Plan,24000,4,50.3,No,
+192,35,Nasarawa,Mobile SIM Card,Female,1,Poor,24,65GB Monthly Plan,16000,16,147.27,No,
+193,35,Nasarawa,Mobile SIM Card,Female,1,Poor,24,16.5GB+10mins Monthly Plan,6500,18,77.7,No,
+194,49,Edo,Mobile SIM Card,Female,4,Very Good,14,1.5GB 2-Day Plan,600,15,179.79,Yes,Poor Customer Service
+195,56,Ekiti,4G Router,Male,3,Good,36,65GB Monthly Plan,16000,5,197.03,No,
+196,56,Ekiti,Mobile SIM Card,Male,3,Good,36,500MB Daily Plan,350,1,158.18,No,
+197,56,Ekiti,Broadband MiFi,Male,3,Good,36,300GB FUP Monthly Unlimited,30000,12,111.03,No,
+198,32,Katsina,Broadband MiFi,Male,4,Very Good,20,300GB FUP Monthly Unlimited,30000,15,128.65,No,
+199,32,Katsina,Mobile SIM Card,Male,4,Very Good,20,12.5GB Monthly Plan,5500,12,136.18,No,
+200,39,Borno,Mobile SIM Card,Female,1,Poor,33,25GB Monthly Plan,9000,8,186.98,No,
+201,39,Borno,Broadband MiFi,Female,1,Poor,33,300GB FUP Monthly Unlimited,30000,17,189.52,No,
+202,26,Edo,Broadband MiFi,Male,2,Fair,41,120GB Monthly Broadband Plan,24000,5,188.35,No,
+203,26,Edo,5G Broadband Router,Male,2,Fair,41,300GB FUP Monthly Unlimited,30000,20,131.92,No,
+204,26,Edo,Mobile SIM Card,Male,2,Fair,41,7GB Monthly Plan,3500,19,168.58,No,
+205,19,Katsina,4G Router,Male,2,Fair,42,10GB+10mins Monthly Plan,4500,10,128.56,No,
+206,47,Kebbi,Mobile SIM Card,Female,1,Poor,30,7GB Monthly Plan,3500,11,121.53,Yes,Fast Data Consumption
+207,47,Kebbi,Broadband MiFi,Female,1,Poor,30,300GB FUP Monthly Unlimited,30000,12,146.97,Yes,Fast Data Consumption
+208,32,Gombe,Mobile SIM Card,Male,4,Very Good,21,65GB Monthly Plan,16000,13,10.6,Yes,Fast Data Consumption
+209,47,Abuja (FCT),Mobile SIM Card,Female,2,Fair,60,1GB+1.5mins Daily Plan,500,3,99.73,No,
+210,47,Abuja (FCT),4G Router,Female,2,Fair,60,165GB Monthly Plan,35000,8,101.34,No,
+211,61,Oyo,Mobile SIM Card,Male,5,Excellent,19,3.2GB 2-Day Plan,1000,9,86.47,No,
+212,61,Oyo,4G Router,Male,5,Excellent,19,25GB Monthly Plan,9000,12,152.89,No,
+213,61,Oyo,Broadband MiFi,Male,5,Excellent,19,30GB Monthly Broadband Plan,9000,19,80.42,No,
+214,62,Cross River,Broadband MiFi,Male,5,Excellent,25,60GB Monthly Broadband Plan,14500,11,74.95,Yes,Relocation
+215,62,Cross River,Mobile SIM Card,Male,5,Excellent,25,16.5GB+10mins Monthly Plan,6500,5,187.82,Yes,Relocation
+216,62,Cross River,5G Broadband Router,Male,5,Excellent,25,60GB Monthly Broadband Plan,14500,13,120.69,Yes,Relocation
+217,21,Rivers,4G Router,Male,4,Very Good,9,25GB Monthly Plan,9000,11,186.31,No,
+218,66,Abia,5G Broadband Router,Female,5,Excellent,33,200GB Monthly Broadband Plan,25000,14,134.92,Yes,Better Offers from Competitors
+219,19,Taraba,Mobile SIM Card,Female,1,Poor,42,1.5GB 2-Day Plan,600,8,164.42,No,
+220,30,Benue,Mobile SIM Card,Male,4,Very Good,29,16.5GB+10mins Monthly Plan,6500,16,155.11,Yes,High Call Tarriffs
+221,33,Bauchi,4G Router,Male,4,Very Good,36,25GB Monthly Plan,9000,9,109.48,No,
+222,33,Bauchi,Mobile SIM Card,Male,4,Very Good,36,12.5GB Monthly Plan,5500,8,38.86,No,
+223,54,Osun,5G Broadband Router,Female,2,Fair,50,200GB Monthly Broadband Plan,25000,9,112.32,No,
+224,54,Osun,4G Router,Female,2,Fair,50,25GB Monthly Plan,9000,18,24.81,No,
+225,66,Ekiti,5G Broadband Router,Male,3,Good,19,1.5TB Yearly Broadband Plan,150000,16,131.37,No,
+226,41,Adamawa,4G Router,Female,2,Fair,60,10GB+10mins Monthly Plan,4500,2,127.77,Yes,High Call Tarriffs
+227,41,Adamawa,Broadband MiFi,Female,2,Fair,60,30GB Monthly Broadband Plan,9000,16,82.95,Yes,High Call Tarriffs
+228,41,Adamawa,5G Broadband Router,Female,2,Fair,60,150GB FUP Monthly Unlimited,20000,5,136.4,Yes,High Call Tarriffs
+229,36,Kogi,Broadband MiFi,Female,3,Good,31,120GB Monthly Broadband Plan,24000,2,147.87,No,
+230,36,Kogi,Mobile SIM Card,Female,3,Good,31,1.5GB 2-Day Plan,600,6,83.87,No,
+231,36,Kogi,5G Broadband Router,Female,3,Good,31,30GB Monthly Broadband Plan,9000,13,199.44,No,
+232,39,Cross River,5G Broadband Router,Male,5,Excellent,1,1.5TB Yearly Broadband Plan,150000,5,177.91,No,
+233,39,Cross River,4G Router,Male,5,Excellent,1,165GB Monthly Plan,35000,4,54.93,No,
+234,36,Sokoto,4G Router,Female,1,Poor,46,165GB Monthly Plan,35000,17,165.48,No,
+235,36,Sokoto,Broadband MiFi,Female,1,Poor,46,300GB FUP Monthly Unlimited,30000,4,17.8,No,
+236,33,Taraba,5G Broadband Router,Female,1,Poor,60,120GB Monthly Broadband Plan,24000,19,116.7,Yes,Poor Customer Service
+237,33,Taraba,4G Router,Female,1,Poor,60,65GB Monthly Plan,16000,12,52.68,Yes,Poor Customer Service
+238,23,Delta,5G Broadband Router,Female,4,Very Good,20,120GB Monthly Broadband Plan,24000,8,73.83,No,
+239,23,Delta,Mobile SIM Card,Female,4,Very Good,20,500MB Daily Plan,350,16,191.49,No,
+240,23,Delta,Broadband MiFi,Female,4,Very Good,20,150GB FUP Monthly Unlimited,20000,20,91.27,No,
+241,69,Taraba,Mobile SIM Card,Male,5,Excellent,49,16.5GB+10mins Monthly Plan,6500,3,140.9,No,
+242,23,Zamfara,Mobile SIM Card,Male,2,Fair,37,12.5GB Monthly Plan,5500,17,18.64,No,
+243,23,Zamfara,Broadband MiFi,Male,2,Fair,37,60GB Monthly Broadband Plan,14500,15,161.83,No,
+244,23,Zamfara,5G Broadband Router,Male,2,Fair,37,300GB FUP Monthly Unlimited,30000,15,102.89,No,
+245,75,Abia,Broadband MiFi,Male,1,Poor,26,300GB FUP Monthly Unlimited,30000,18,140.23,No,
+246,75,Abia,Mobile SIM Card,Male,1,Poor,26,2.5GB 2-Day Plan,900,3,186.95,No,
+247,75,Abia,Mobile SIM Card,Male,1,Poor,26,165GB Monthly Plan,35000,14,6.83,No,
+248,33,Kogi,Mobile SIM Card,Female,4,Very Good,58,16.5GB+10mins Monthly Plan,6500,12,27.03,No,
+249,33,Kogi,Broadband MiFi,Female,4,Very Good,58,30GB Monthly Broadband Plan,9000,18,36.11,No,
+250,32,Osun,Mobile SIM Card,Male,3,Good,49,500MB Daily Plan,350,12,49.88,No,
+251,32,Osun,5G Broadband Router,Male,3,Good,49,300GB FUP Monthly Unlimited,30000,4,55.49,No,
+252,32,Osun,4G Router,Male,3,Good,49,65GB Monthly Plan,16000,14,161.99,No,
+253,46,Ondo,Broadband MiFi,Male,4,Very Good,7,60GB Monthly Broadband Plan,14500,18,88.07,No,
+254,46,Ondo,Mobile SIM Card,Male,4,Very Good,7,500MB Daily Plan,350,2,151.0,No,
+255,46,Ondo,5G Broadband Router,Male,4,Very Good,7,300GB FUP Monthly Unlimited,30000,10,101.03,No,
+256,56,Niger,Broadband MiFi,Male,5,Excellent,20,120GB Monthly Broadband Plan,24000,6,176.0,Yes,Costly Data Plans
+257,56,Niger,5G Broadband Router,Male,5,Excellent,20,450GB 3-Month Broadband Plan,75000,2,111.39,Yes,Costly Data Plans
+258,64,Bauchi,Mobile SIM Card,Female,4,Very Good,45,500MB Daily Plan,350,10,169.94,Yes,Fast Data Consumption
+259,75,Oyo,Broadband MiFi,Female,4,Very Good,27,300GB FUP Monthly Unlimited,30000,7,18.95,Yes,Poor Customer Service
+260,75,Oyo,4G Router,Female,4,Very Good,27,65GB Monthly Plan,16000,20,54.06,Yes,Poor Customer Service
+261,25,Benue,Mobile SIM Card,Male,3,Good,31,10GB+10mins Monthly Plan,4500,4,192.43,No,
+262,47,Ondo,Mobile SIM Card,Female,5,Excellent,59,16.5GB+10mins Monthly Plan,6500,10,129.92,No,
+263,47,Ondo,4G Router,Female,5,Excellent,59,25GB Monthly Plan,9000,16,72.25,No,
+264,28,Taraba,4G Router,Female,3,Good,59,10GB+10mins Monthly Plan,4500,18,3.74,No,
+265,53,Plateau,Mobile SIM Card,Male,4,Very Good,22,16.5GB+10mins Monthly Plan,6500,11,131.09,No,
+266,78,Yobe,4G Router,Female,2,Fair,11,65GB Monthly Plan,16000,3,105.03,Yes,Relocation
+267,78,Yobe,5G Broadband Router,Female,2,Fair,11,30GB Monthly Broadband Plan,9000,14,152.99,Yes,Relocation
+268,45,Kaduna,Mobile SIM Card,Male,5,Excellent,1,12.5GB Monthly Plan,5500,18,3.64,No,
+269,17,Kano,Mobile SIM Card,Female,1,Poor,35,3.2GB 2-Day Plan,1000,8,105.11,No,
+270,48,Ekiti,Mobile SIM Card,Female,1,Poor,51,500MB Daily Plan,350,8,198.05,No,
+271,48,Ekiti,5G Broadband Router,Female,1,Poor,51,120GB Monthly Broadband Plan,24000,3,136.97,No,
+272,27,Kebbi,Mobile SIM Card,Female,1,Poor,25,165GB Monthly Plan,35000,11,129.16,No,
+273,27,Kebbi,Broadband MiFi,Female,1,Poor,25,120GB Monthly Broadband Plan,24000,4,195.48,No,
+274,27,Kebbi,Mobile SIM Card,Female,1,Poor,25,16.5GB+10mins Monthly Plan,6500,8,183.87,No,
+275,76,Akwa Ibom,Broadband MiFi,Male,3,Good,60,30GB Monthly Broadband Plan,9000,19,192.31,No,
+276,76,Akwa Ibom,Mobile SIM Card,Male,3,Good,60,1.5GB 2-Day Plan,600,13,150.57,No,
+277,76,Akwa Ibom,4G Router,Male,3,Good,60,65GB Monthly Plan,16000,19,60.21,No,
+278,65,Adamawa,Broadband MiFi,Female,1,Poor,25,60GB Monthly Broadband Plan,14500,3,46.81,No,
+279,65,Adamawa,Mobile SIM Card,Female,1,Poor,25,7GB Monthly Plan,3500,20,121.23,No,
+280,57,Kano,Mobile SIM Card,Female,4,Very Good,51,20GB Monthly Plan,7500,20,17.6,Yes,Relocation
+281,57,Kano,Broadband MiFi,Female,4,Very Good,51,300GB FUP Monthly Unlimited,30000,3,159.71,Yes,Relocation
+282,50,Plateau,Broadband MiFi,Female,4,Very Good,46,30GB Monthly Broadband Plan,9000,15,188.62,No,
+283,50,Anambra,Mobile SIM Card,Male,4,Very Good,6,3.2GB 2-Day Plan,1000,3,71.11,No,
+284,50,Anambra,Broadband MiFi,Male,4,Very Good,6,120GB Monthly Broadband Plan,24000,11,119.81,No,
+285,50,Anambra,5G Broadband Router,Male,4,Very Good,6,450GB 3-Month Broadband Plan,75000,14,2.96,No,
+286,26,Imo,Mobile SIM Card,Male,2,Fair,44,3.2GB 2-Day Plan,1000,9,33.86,Yes,Costly Data Plans
+287,26,Imo,Broadband MiFi,Male,2,Fair,44,60GB Monthly Broadband Plan,14500,3,60.3,Yes,Costly Data Plans
+288,48,Imo,Mobile SIM Card,Female,4,Very Good,39,7GB Monthly Plan,3500,13,168.4,Yes,Costly Data Plans
+289,72,Bayelsa,4G Router,Female,3,Good,53,10GB+10mins Monthly Plan,4500,11,192.93,No,
+290,72,Bayelsa,Mobile SIM Card,Female,3,Good,53,1GB+1.5mins Daily Plan,500,16,147.11,No,
+291,72,Bayelsa,5G Broadband Router,Female,3,Good,53,60GB Monthly Broadband Plan,14500,9,65.51,No,
+292,62,Delta,4G Router,Male,5,Excellent,38,25GB Monthly Plan,9000,3,166.34,Yes,High Call Tarriffs
+293,62,Delta,Mobile SIM Card,Male,5,Excellent,38,20GB Monthly Plan,7500,5,134.76,Yes,High Call Tarriffs
+294,46,Edo,Mobile SIM Card,Male,4,Very Good,46,16.5GB+10mins Monthly Plan,6500,14,184.74,Yes,Relocation
+295,46,Edo,5G Broadband Router,Male,4,Very Good,46,30GB Monthly Broadband Plan,9000,12,158.25,Yes,Relocation
+296,26,Anambra,Mobile SIM Card,Male,2,Fair,43,7GB Monthly Plan,3500,14,193.16,No,
+297,17,Anambra,4G Router,Female,4,Very Good,15,10GB+10mins Monthly Plan,4500,10,96.81,No,
+298,17,Anambra,Mobile SIM Card,Female,4,Very Good,15,12.5GB Monthly Plan,5500,3,184.15,No,
+299,34,Ekiti,Mobile SIM Card,Female,2,Fair,22,12.5GB Monthly Plan,5500,15,144.54,No,
+300,34,Ekiti,Broadband MiFi,Female,2,Fair,22,300GB FUP Monthly Unlimited,30000,2,13.9,No,
+301,18,Bayelsa,4G Router,Male,2,Fair,44,10GB+10mins Monthly Plan,4500,13,46.76,No,
+302,18,Bayelsa,Mobile SIM Card,Male,2,Fair,44,1.5GB 2-Day Plan,600,14,37.68,No,
+303,29,Adamawa,Mobile SIM Card,Male,2,Fair,24,7GB Monthly Plan,3500,20,119.6,No,
+304,29,Adamawa,5G Broadband Router,Male,2,Fair,24,450GB 3-Month Broadband Plan,75000,12,117.61,No,
+305,74,Enugu,5G Broadband Router,Female,2,Fair,59,150GB FUP Monthly Unlimited,20000,5,37.02,No,
+306,65,Kogi,4G Router,Male,4,Very Good,37,165GB Monthly Plan,35000,6,58.12,Yes,High Call Tarriffs
+307,65,Kogi,5G Broadband Router,Male,4,Very Good,37,200GB Monthly Broadband Plan,25000,20,168.48,Yes,High Call Tarriffs
+308,65,Kogi,Broadband MiFi,Male,4,Very Good,37,30GB Monthly Broadband Plan,9000,1,173.17,Yes,High Call Tarriffs
+309,33,Benue,Mobile SIM Card,Female,4,Very Good,36,1.5GB 2-Day Plan,600,1,16.99,No,
+310,33,Benue,4G Router,Female,4,Very Good,36,10GB+10mins Monthly Plan,4500,9,58.77,No,
+311,52,Abuja (FCT),Broadband MiFi,Female,5,Excellent,37,120GB Monthly Broadband Plan,24000,2,164.61,No,
+312,52,Abuja (FCT),4G Router,Female,5,Excellent,37,165GB Monthly Plan,35000,14,109.5,No,
+313,52,Abuja (FCT),5G Broadband Router,Female,5,Excellent,37,150GB FUP Monthly Unlimited,20000,8,147.33,No,
+314,20,Nasarawa,Mobile SIM Card,Female,4,Very Good,23,10GB+10mins Monthly Plan,4500,19,162.24,No,
+315,70,Abuja (FCT),5G Broadband Router,Male,2,Fair,51,300GB FUP Monthly Unlimited,30000,10,65.07,No,
+316,70,Abuja (FCT),Mobile SIM Card,Male,2,Fair,51,1GB+1.5mins Daily Plan,500,17,114.76,No,
+317,70,Abuja (FCT),4G Router,Male,2,Fair,51,65GB Monthly Plan,16000,14,27.55,No,
+318,51,Borno,Mobile SIM Card,Male,3,Good,16,1GB+1.5mins Daily Plan,500,13,125.75,No,
+319,51,Borno,4G Router,Male,3,Good,16,165GB Monthly Plan,35000,3,15.57,No,
+320,51,Borno,Broadband MiFi,Male,3,Good,16,60GB Monthly Broadband Plan,14500,9,103.36,No,
+321,74,Yobe,5G Broadband Router,Female,1,Poor,38,450GB 3-Month Broadband Plan,75000,14,43.96,No,
+322,74,Yobe,Broadband MiFi,Female,1,Poor,38,150GB FUP Monthly Unlimited,20000,11,99.2,No,
+323,59,Borno,Broadband MiFi,Female,1,Poor,51,150GB FUP Monthly Unlimited,20000,1,88.54,Yes,High Call Tarriffs
+324,59,Borno,Mobile SIM Card,Female,1,Poor,51,20GB Monthly Plan,7500,5,40.86,Yes,High Call Tarriffs
+325,36,Akwa Ibom,4G Router,Male,3,Good,42,25GB Monthly Plan,9000,8,145.33,Yes,High Call Tarriffs
+326,36,Akwa Ibom,Broadband MiFi,Male,3,Good,42,60GB Monthly Broadband Plan,14500,4,131.27,Yes,High Call Tarriffs
+327,36,Akwa Ibom,Mobile SIM Card,Male,3,Good,42,2.5GB 2-Day Plan,900,3,43.08,Yes,High Call Tarriffs
+328,44,Bauchi,4G Router,Female,3,Good,1,65GB Monthly Plan,16000,3,46.17,No,
+329,44,Bauchi,Mobile SIM Card,Female,3,Good,1,3.2GB 2-Day Plan,1000,12,21.09,No,
+330,33,Jigawa,4G Router,Male,1,Poor,42,165GB Monthly Plan,35000,7,70.56,No,
+331,68,Nasarawa,Mobile SIM Card,Male,2,Fair,6,7GB Monthly Plan,3500,8,158.32,No,
+332,68,Nasarawa,4G Router,Male,2,Fair,6,25GB Monthly Plan,9000,8,129.1,No,
+333,68,Nasarawa,5G Broadband Router,Male,2,Fair,6,120GB Monthly Broadband Plan,24000,1,155.9,No,
+334,42,Bauchi,Mobile SIM Card,Male,3,Good,48,20GB Monthly Plan,7500,16,22.99,No,
+335,17,Gombe,4G Router,Female,5,Excellent,9,10GB+10mins Monthly Plan,4500,1,117.68,No,
+336,17,Gombe,Mobile SIM Card,Female,5,Excellent,9,1GB+1.5mins Daily Plan,500,2,43.54,No,
+337,80,Cross River,Mobile SIM Card,Female,1,Poor,28,25GB Monthly Plan,9000,7,16.26,No,
+338,80,Cross River,Mobile SIM Card,Female,1,Poor,28,1.5GB 2-Day Plan,600,13,107.51,No,
+339,80,Cross River,Broadband MiFi,Female,1,Poor,28,120GB Monthly Broadband Plan,24000,3,127.04,No,
+340,71,Imo,Broadband MiFi,Male,4,Very Good,16,30GB Monthly Broadband Plan,9000,5,3.03,Yes,Relocation
+341,71,Imo,4G Router,Male,4,Very Good,16,65GB Monthly Plan,16000,12,33.18,Yes,Relocation
+342,71,Imo,Mobile SIM Card,Male,4,Very Good,16,16.5GB+10mins Monthly Plan,6500,9,103.69,Yes,Relocation
+343,63,Borno,5G Broadband Router,Female,1,Poor,47,150GB FUP Monthly Unlimited,20000,19,52.96,No,
+344,63,Borno,Mobile SIM Card,Female,1,Poor,47,3.2GB 2-Day Plan,1000,17,99.48,No,
+345,23,Yobe,Broadband MiFi,Male,3,Good,24,30GB Monthly Broadband Plan,9000,1,171.81,No,
+346,23,Yobe,Mobile SIM Card,Male,3,Good,24,500MB Daily Plan,350,12,9.67,No,
+347,23,Yobe,5G Broadband Router,Male,3,Good,24,450GB 3-Month Broadband Plan,75000,6,184.09,No,
+348,69,Osun,5G Broadband Router,Female,3,Good,16,300GB FUP Monthly Unlimited,30000,17,45.03,Yes,Poor Network
+349,69,Osun,Broadband MiFi,Female,3,Good,16,30GB Monthly Broadband Plan,9000,3,190.84,Yes,Poor Network
+350,69,Osun,Mobile SIM Card,Female,3,Good,16,12.5GB Monthly Plan,5500,10,173.27,Yes,Poor Network
+351,27,Sokoto,Mobile SIM Card,Male,3,Good,24,25GB Monthly Plan,9000,16,118.54,No,
+352,27,Sokoto,Mobile SIM Card,Male,3,Good,24,500MB Daily Plan,350,18,146.63,No,
+353,35,Lagos,Broadband MiFi,Female,5,Excellent,2,60GB Monthly Broadband Plan,14500,10,169.88,No,
+354,35,Lagos,4G Router,Female,5,Excellent,2,65GB Monthly Plan,16000,8,41.44,No,
+355,35,Lagos,Mobile SIM Card,Female,5,Excellent,2,20GB Monthly Plan,7500,2,98.66,No,
+356,51,Katsina,Mobile SIM Card,Male,5,Excellent,59,3.2GB 2-Day Plan,1000,17,116.36,No,
+357,51,Katsina,5G Broadband Router,Male,5,Excellent,59,300GB FUP Monthly Unlimited,30000,13,127.62,No,
+358,23,Kwara,5G Broadband Router,Male,3,Good,16,1.5TB Yearly Broadband Plan,150000,3,54.76,No,
+359,23,Kwara,4G Router,Male,3,Good,16,10GB+10mins Monthly Plan,4500,19,27.65,No,
+360,35,Anambra,5G Broadband Router,Male,3,Good,29,120GB Monthly Broadband Plan,24000,4,92.94,No,
+361,35,Anambra,Broadband MiFi,Male,3,Good,29,30GB Monthly Broadband Plan,9000,10,31.94,No,
+362,35,Anambra,Mobile SIM Card,Male,3,Good,29,65GB Monthly Plan,16000,11,43.4,No,
+363,27,Imo,Mobile SIM Card,Female,3,Good,26,12.5GB Monthly Plan,5500,18,111.41,Yes,Poor Customer Service
+364,28,Sokoto,4G Router,Male,1,Poor,52,10GB+10mins Monthly Plan,4500,12,164.82,Yes,Better Offers from Competitors
+365,49,Kaduna,5G Broadband Router,Male,4,Very Good,5,150GB FUP Monthly Unlimited,20000,15,9.02,No,
+366,37,Kwara,5G Broadband Router,Female,4,Very Good,32,60GB Monthly Broadband Plan,14500,9,181.71,No,
+367,73,Plateau,Mobile SIM Card,Male,3,Good,40,1GB+1.5mins Daily Plan,500,14,76.91,No,
+368,73,Plateau,Broadband MiFi,Male,3,Good,40,150GB FUP Monthly Unlimited,20000,17,128.71,No,
+369,73,Plateau,5G Broadband Router,Male,3,Good,40,60GB Monthly Broadband Plan,14500,18,126.34,No,
+370,64,Ekiti,5G Broadband Router,Female,3,Good,35,300GB FUP Monthly Unlimited,30000,20,5.7,No,
+371,64,Ekiti,4G Router,Female,3,Good,35,10GB+10mins Monthly Plan,4500,9,6.35,No,
+372,64,Ekiti,Mobile SIM Card,Female,3,Good,35,2.5GB 2-Day Plan,900,16,161.83,No,
+373,61,Osun,Broadband MiFi,Male,2,Fair,7,300GB FUP Monthly Unlimited,30000,6,187.07,Yes,Better Offers from Competitors
+374,61,Osun,Mobile SIM Card,Male,2,Fair,7,1.5GB 2-Day Plan,600,11,47.69,Yes,Better Offers from Competitors
+375,61,Osun,4G Router,Male,2,Fair,7,25GB Monthly Plan,9000,1,182.84,Yes,Better Offers from Competitors
+376,34,Benue,Broadband MiFi,Female,2,Fair,35,150GB FUP Monthly Unlimited,20000,1,120.53,No,
+377,77,Lagos,5G Broadband Router,Female,2,Fair,59,30GB Monthly Broadband Plan,9000,19,4.87,No,
+378,30,Bauchi,5G Broadband Router,Female,4,Very Good,5,300GB FUP Monthly Unlimited,30000,14,195.18,No,
+379,30,Bauchi,4G Router,Female,4,Very Good,5,165GB Monthly Plan,35000,6,130.01,No,
+380,44,Enugu,Mobile SIM Card,Female,2,Fair,20,1.5GB 2-Day Plan,600,20,120.68,Yes,Poor Network
+381,44,Enugu,5G Broadband Router,Female,2,Fair,20,60GB Monthly Broadband Plan,14500,4,128.11,Yes,Poor Network
+382,44,Enugu,Broadband MiFi,Female,2,Fair,20,60GB Monthly Broadband Plan,14500,3,28.56,Yes,Poor Network
+383,60,Niger,4G Router,Male,3,Good,41,65GB Monthly Plan,16000,4,70.42,No,
+384,60,Niger,Broadband MiFi,Male,3,Good,41,30GB Monthly Broadband Plan,9000,15,10.11,No,
+385,37,Kogi,Mobile SIM Card,Female,3,Good,57,500MB Daily Plan,350,3,32.95,No,
+386,53,Kano,4G Router,Female,1,Poor,17,65GB Monthly Plan,16000,3,109.64,No,
+387,53,Kano,5G Broadband Router,Female,1,Poor,17,200GB Monthly Broadband Plan,25000,20,119.01,No,
+388,19,Kwara,4G Router,Male,2,Fair,39,10GB+10mins Monthly Plan,4500,18,139.59,Yes,Costly Data Plans
+389,52,Abia,4G Router,Male,4,Very Good,7,25GB Monthly Plan,9000,3,1.26,No,
+390,52,Abia,Broadband MiFi,Male,4,Very Good,7,300GB FUP Monthly Unlimited,30000,20,164.87,No,
+391,41,Anambra,Broadband MiFi,Male,3,Good,14,60GB Monthly Broadband Plan,14500,9,94.45,No,
+392,41,Anambra,4G Router,Male,3,Good,14,65GB Monthly Plan,16000,13,128.55,No,
+393,63,Jigawa,4G Router,Female,1,Poor,12,65GB Monthly Plan,16000,4,30.65,Yes,Fast Data Consumption
+394,63,Jigawa,Mobile SIM Card,Female,1,Poor,12,3.2GB 2-Day Plan,1000,18,133.79,Yes,Fast Data Consumption
+395,45,Oyo,4G Router,Female,5,Excellent,53,25GB Monthly Plan,9000,2,16.25,No,
+396,45,Oyo,Mobile SIM Card,Female,5,Excellent,53,16.5GB+10mins Monthly Plan,6500,17,114.46,No,
+397,31,Nasarawa,Mobile SIM Card,Male,2,Fair,11,500MB Daily Plan,350,5,199.46,Yes,Fast Data Consumption
+398,56,Kaduna,Mobile SIM Card,Male,5,Excellent,25,16.5GB+10mins Monthly Plan,6500,4,156.45,No,
+399,56,Kaduna,Broadband MiFi,Male,5,Excellent,25,60GB Monthly Broadband Plan,14500,19,30.35,No,
+400,29,Anambra,Mobile SIM Card,Female,4,Very Good,56,1.5GB 2-Day Plan,600,5,55.45,Yes,High Call Tarriffs
+401,29,Anambra,Broadband MiFi,Female,4,Very Good,56,120GB Monthly Broadband Plan,24000,13,121.93,Yes,High Call Tarriffs
+402,66,Bayelsa,5G Broadband Router,Male,3,Good,4,120GB Monthly Broadband Plan,24000,16,62.53,No,
+403,45,Borno,Broadband MiFi,Female,3,Good,48,150GB FUP Monthly Unlimited,20000,14,182.73,Yes,Fast Data Consumption
+404,45,Borno,Mobile SIM Card,Female,3,Good,48,12.5GB Monthly Plan,5500,12,152.02,Yes,Fast Data Consumption
+405,45,Borno,4G Router,Female,3,Good,48,65GB Monthly Plan,16000,6,103.3,Yes,Fast Data Consumption
+406,55,Zamfara,Broadband MiFi,Female,2,Fair,9,150GB FUP Monthly Unlimited,20000,2,7.1,Yes,Better Offers from Competitors
+407,41,Akwa Ibom,Broadband MiFi,Female,5,Excellent,53,150GB FUP Monthly Unlimited,20000,20,74.81,No,
+408,38,Taraba,Broadband MiFi,Female,3,Good,23,60GB Monthly Broadband Plan,14500,19,10.41,No,
+409,38,Taraba,Mobile SIM Card,Female,3,Good,23,10GB+10mins Monthly Plan,4500,8,171.49,No,
+410,38,Taraba,Mobile SIM Card,Female,3,Good,23,500MB Daily Plan,350,14,54.18,No,
+411,18,Lagos,4G Router,Female,2,Fair,59,10GB+10mins Monthly Plan,4500,10,121.86,No,
+412,70,Jigawa,Mobile SIM Card,Female,2,Fair,30,2.5GB 2-Day Plan,900,12,102.55,No,
+413,70,Jigawa,5G Broadband Router,Female,2,Fair,30,120GB Monthly Broadband Plan,24000,4,60.05,No,
+414,70,Jigawa,Broadband MiFi,Female,2,Fair,30,60GB Monthly Broadband Plan,14500,9,13.24,No,
+415,51,Edo,Mobile SIM Card,Female,5,Excellent,13,7GB Monthly Plan,3500,1,136.31,No,
+416,53,Edo,Mobile SIM Card,Female,1,Poor,26,165GB Monthly Plan,35000,12,181.35,No,
+417,53,Edo,Mobile SIM Card,Female,1,Poor,26,16.5GB+10mins Monthly Plan,6500,6,60.39,No,
+418,53,Edo,Broadband MiFi,Female,1,Poor,26,120GB Monthly Broadband Plan,24000,4,36.64,No,
+419,32,Edo,5G Broadband Router,Male,1,Poor,44,200GB Monthly Broadband Plan,25000,10,52.48,Yes,Poor Customer Service
+420,32,Edo,4G Router,Male,1,Poor,44,165GB Monthly Plan,35000,16,170.32,Yes,Poor Customer Service
+421,32,Edo,Mobile SIM Card,Male,1,Poor,44,2.5GB 2-Day Plan,900,19,173.35,Yes,Poor Customer Service
+422,76,Benue,4G Router,Male,5,Excellent,56,10GB+10mins Monthly Plan,4500,19,68.86,Yes,Poor Network
+423,34,Niger,5G Broadband Router,Male,4,Very Good,50,30GB Monthly Broadband Plan,9000,9,1.44,No,
+424,37,Abuja (FCT),Mobile SIM Card,Female,2,Fair,51,12.5GB Monthly Plan,5500,2,76.97,No,
+425,37,Abuja (FCT),4G Router,Female,2,Fair,51,10GB+10mins Monthly Plan,4500,1,146.27,No,
+426,37,Abuja (FCT),5G Broadband Router,Female,2,Fair,51,200GB Monthly Broadband Plan,25000,17,151.49,No,
+427,18,Lagos,Mobile SIM Card,Male,3,Good,15,2.5GB 2-Day Plan,900,10,59.99,Yes,Fast Data Consumption
+428,59,Kwara,Mobile SIM Card,Male,3,Good,22,2.5GB 2-Day Plan,900,5,46.07,No,
+429,18,Zamfara,Mobile SIM Card,Male,1,Poor,8,2.5GB 2-Day Plan,900,1,132.56,No,
+430,30,Kogi,Mobile SIM Card,Female,5,Excellent,25,65GB Monthly Plan,16000,4,60.57,Yes,High Call Tarriffs
+431,50,Borno,5G Broadband Router,Female,5,Excellent,54,150GB FUP Monthly Unlimited,20000,16,157.06,No,
+432,41,Edo,Mobile SIM Card,Male,3,Good,23,165GB Monthly Plan,35000,1,66.46,Yes,Relocation
+433,41,Edo,5G Broadband Router,Male,3,Good,23,30GB Monthly Broadband Plan,9000,4,134.49,Yes,Relocation
+434,35,Katsina,5G Broadband Router,Male,3,Good,47,1.5TB Yearly Broadband Plan,150000,6,10.49,No,
+435,35,Katsina,4G Router,Male,3,Good,47,65GB Monthly Plan,16000,12,170.52,No,
+436,70,Delta,4G Router,Male,1,Poor,55,165GB Monthly Plan,35000,9,191.04,No,
+437,70,Delta,Mobile SIM Card,Male,1,Poor,55,3.2GB 2-Day Plan,1000,11,74.84,No,
+438,70,Delta,5G Broadband Router,Male,1,Poor,55,300GB FUP Monthly Unlimited,30000,13,23.21,No,
+439,50,Jigawa,Broadband MiFi,Female,2,Fair,52,60GB Monthly Broadband Plan,14500,16,182.29,Yes,High Call Tarriffs
+440,50,Jigawa,Mobile SIM Card,Female,2,Fair,52,12.5GB Monthly Plan,5500,13,36.66,Yes,High Call Tarriffs
+441,50,Jigawa,5G Broadband Router,Female,2,Fair,52,200GB Monthly Broadband Plan,25000,5,122.47,Yes,High Call Tarriffs
+442,78,Delta,Mobile SIM Card,Female,1,Poor,29,25GB Monthly Plan,9000,20,104.06,Yes,Costly Data Plans
+443,71,Imo,Broadband MiFi,Female,2,Fair,23,120GB Monthly Broadband Plan,24000,16,169.84,No,
+444,71,Imo,Mobile SIM Card,Female,2,Fair,23,1.5GB 2-Day Plan,600,16,15.44,No,
+445,71,Imo,5G Broadband Router,Female,2,Fair,23,200GB Monthly Broadband Plan,25000,9,48.56,No,
+446,80,Osun,Mobile SIM Card,Female,1,Poor,26,12.5GB Monthly Plan,5500,16,63.55,No,
+447,80,Osun,Broadband MiFi,Female,1,Poor,26,30GB Monthly Broadband Plan,9000,14,20.98,No,
+448,80,Osun,Mobile SIM Card,Female,1,Poor,26,65GB Monthly Plan,16000,1,111.65,No,
+449,54,Zamfara,4G Router,Male,3,Good,42,165GB Monthly Plan,35000,20,66.73,No,
+450,62,Nasarawa,5G Broadband Router,Male,1,Poor,7,150GB FUP Monthly Unlimited,20000,6,9.63,No,
+451,62,Nasarawa,Mobile SIM Card,Male,1,Poor,7,12.5GB Monthly Plan,5500,14,28.52,No,
+452,62,Nasarawa,4G Router,Male,1,Poor,7,65GB Monthly Plan,16000,7,51.23,No,
+453,31,Kebbi,Broadband MiFi,Male,3,Good,30,60GB Monthly Broadband Plan,14500,19,91.75,Yes,Fast Data Consumption
+454,33,Yobe,Mobile SIM Card,Male,5,Excellent,34,1.5GB 2-Day Plan,600,5,146.23,No,
+455,33,Yobe,5G Broadband Router,Male,5,Excellent,34,150GB FUP Monthly Unlimited,20000,20,77.79,No,
+456,33,Yobe,Broadband MiFi,Male,5,Excellent,34,120GB Monthly Broadband Plan,24000,17,176.6,No,
+457,69,Imo,Mobile SIM Card,Female,3,Good,26,165GB Monthly Plan,35000,17,120.7,No,
+458,56,Ondo,4G Router,Male,3,Good,14,25GB Monthly Plan,9000,12,142.22,No,
+459,69,Adamawa,Mobile SIM Card,Female,1,Poor,57,1.5GB 2-Day Plan,600,2,11.09,No,
+460,50,Abuja (FCT),5G Broadband Router,Female,2,Fair,44,200GB Monthly Broadband Plan,25000,4,162.9,No,
+461,50,Abuja (FCT),Broadband MiFi,Female,2,Fair,44,120GB Monthly Broadband Plan,24000,18,173.67,No,
+462,50,Abuja (FCT),Mobile SIM Card,Female,2,Fair,44,500MB Daily Plan,350,18,148.61,No,
+463,46,Zamfara,5G Broadband Router,Female,4,Very Good,45,30GB Monthly Broadband Plan,9000,7,148.86,No,
+464,46,Zamfara,Mobile SIM Card,Female,4,Very Good,45,12.5GB Monthly Plan,5500,12,166.08,No,
+465,46,Zamfara,Broadband MiFi,Female,4,Very Good,45,120GB Monthly Broadband Plan,24000,20,109.55,No,
+466,40,Cross River,Broadband MiFi,Female,2,Fair,12,60GB Monthly Broadband Plan,14500,9,56.18,No,
+467,40,Cross River,4G Router,Female,2,Fair,12,10GB+10mins Monthly Plan,4500,9,32.61,No,
+468,40,Cross River,Mobile SIM Card,Female,2,Fair,12,2.5GB 2-Day Plan,900,5,66.45,No,
+469,35,Niger,5G Broadband Router,Male,4,Very Good,50,60GB Monthly Broadband Plan,14500,17,191.42,No,
+470,35,Niger,Broadband MiFi,Male,4,Very Good,50,30GB Monthly Broadband Plan,9000,6,157.36,No,
+471,35,Niger,4G Router,Male,4,Very Good,50,165GB Monthly Plan,35000,13,108.84,No,
+472,60,Osun,Mobile SIM Card,Male,3,Good,43,16.5GB+10mins Monthly Plan,6500,1,164.83,No,
+473,60,Nasarawa,Mobile SIM Card,Male,1,Poor,58,20GB Monthly Plan,7500,10,51.69,No,
+474,60,Nasarawa,Broadband MiFi,Male,1,Poor,58,30GB Monthly Broadband Plan,9000,12,182.31,No,
+475,73,Yobe,4G Router,Male,3,Good,19,65GB Monthly Plan,16000,7,125.57,No,
+476,70,Anambra,Broadband MiFi,Male,1,Poor,35,60GB Monthly Broadband Plan,14500,2,143.52,No,
+477,25,Oyo,5G Broadband Router,Male,5,Excellent,51,450GB 3-Month Broadband Plan,75000,13,77.91,Yes,Better Offers from Competitors
+478,56,Kano,Broadband MiFi,Female,5,Excellent,44,30GB Monthly Broadband Plan,9000,17,71.86,Yes,High Call Tarriffs
+479,56,Kano,5G Broadband Router,Female,5,Excellent,44,150GB FUP Monthly Unlimited,20000,10,58.32,Yes,High Call Tarriffs
+480,56,Kano,Mobile SIM Card,Female,5,Excellent,44,3.2GB 2-Day Plan,1000,15,56.66,Yes,High Call Tarriffs
+481,66,Kano,5G Broadband Router,Female,2,Fair,11,120GB Monthly Broadband Plan,24000,12,135.62,No,
+482,66,Kano,Mobile SIM Card,Female,2,Fair,11,2.5GB 2-Day Plan,900,18,110.93,No,
+483,66,Kano,Broadband MiFi,Female,2,Fair,11,150GB FUP Monthly Unlimited,20000,1,25.09,No,
+484,26,Abia,4G Router,Male,2,Fair,48,10GB+10mins Monthly Plan,4500,9,123.57,No,
+485,26,Abia,Broadband MiFi,Male,2,Fair,48,150GB FUP Monthly Unlimited,20000,19,23.37,No,
+486,26,Abia,5G Broadband Router,Male,2,Fair,48,30GB Monthly Broadband Plan,9000,18,170.35,No,
+487,25,Cross River,5G Broadband Router,Male,2,Fair,17,300GB FUP Monthly Unlimited,30000,8,134.42,No,
+488,25,Cross River,4G Router,Male,2,Fair,17,65GB Monthly Plan,16000,3,57.38,No,
+489,56,Yobe,5G Broadband Router,Female,5,Excellent,22,300GB FUP Monthly Unlimited,30000,8,1.46,Yes,Relocation
+490,56,Yobe,Mobile SIM Card,Female,5,Excellent,22,10GB+10mins Monthly Plan,4500,14,142.58,Yes,Relocation
+491,62,Borno,Mobile SIM Card,Female,4,Very Good,57,3.2GB 2-Day Plan,1000,20,35.57,No,
+492,62,Borno,5G Broadband Router,Female,4,Very Good,57,150GB FUP Monthly Unlimited,20000,5,168.44,No,
+493,41,Edo,Broadband MiFi,Male,1,Poor,47,120GB Monthly Broadband Plan,24000,2,42.95,No,
+494,41,Edo,5G Broadband Router,Male,1,Poor,47,120GB Monthly Broadband Plan,24000,18,108.92,No,
+495,41,Edo,4G Router,Male,1,Poor,47,165GB Monthly Plan,35000,5,130.95,No,
+496,66,Osun,5G Broadband Router,Female,5,Excellent,9,30GB Monthly Broadband Plan,9000,20,132.7,No,
+497,66,Osun,Mobile SIM Card,Female,5,Excellent,9,1.5GB 2-Day Plan,600,5,151.56,No,
+498,36,Enugu,4G Router,Male,3,Good,48,25GB Monthly Plan,9000,2,74.2,Yes,Better Offers from Competitors
+499,36,Enugu,Broadband MiFi,Male,3,Good,48,150GB FUP Monthly Unlimited,20000,12,103.82,Yes,Better Offers from Competitors
+500,76,Sokoto,5G Broadband Router,Male,1,Poor,3,300GB FUP Monthly Unlimited,30000,13,75.64,No,
+501,76,Sokoto,Mobile SIM Card,Male,1,Poor,3,7GB Monthly Plan,3500,3,117.74,No,
+502,76,Sokoto,4G Router,Male,1,Poor,3,25GB Monthly Plan,9000,8,75.58,No,
+503,67,Ekiti,Mobile SIM Card,Female,5,Excellent,32,65GB Monthly Plan,16000,9,103.15,Yes,Poor Customer Service
+504,67,Ekiti,Broadband MiFi,Female,5,Excellent,32,150GB FUP Monthly Unlimited,20000,6,30.47,Yes,Poor Customer Service
+505,31,Osun,Mobile SIM Card,Female,1,Poor,52,1.5GB 2-Day Plan,600,14,129.63,No,
+506,31,Osun,Broadband MiFi,Female,1,Poor,52,30GB Monthly Broadband Plan,9000,5,49.11,No,
+507,33,Zamfara,Mobile SIM Card,Male,1,Poor,58,1GB+1.5mins Daily Plan,500,7,189.48,Yes,Poor Customer Service
+508,33,Zamfara,5G Broadband Router,Male,1,Poor,58,1.5TB Yearly Broadband Plan,150000,16,121.5,Yes,Poor Customer Service
+509,33,Zamfara,Broadband MiFi,Male,1,Poor,58,60GB Monthly Broadband Plan,14500,14,34.53,Yes,Poor Customer Service
+510,39,Zamfara,4G Router,Female,4,Very Good,11,165GB Monthly Plan,35000,4,77.4,No,
+511,41,Bauchi,Broadband MiFi,Female,5,Excellent,53,30GB Monthly Broadband Plan,9000,5,96.71,Yes,Fast Data Consumption
+512,41,Bauchi,5G Broadband Router,Female,5,Excellent,53,30GB Monthly Broadband Plan,9000,14,179.45,Yes,Fast Data Consumption
+513,41,Bauchi,Mobile SIM Card,Female,5,Excellent,53,16.5GB+10mins Monthly Plan,6500,2,84.43,Yes,Fast Data Consumption
+514,70,Osun,Broadband MiFi,Female,3,Good,51,300GB FUP Monthly Unlimited,30000,8,95.69,No,
+515,70,Osun,4G Router,Female,3,Good,51,65GB Monthly Plan,16000,18,57.01,No,
+516,70,Osun,Mobile SIM Card,Female,3,Good,51,20GB Monthly Plan,7500,1,51.93,No,
+517,31,Bauchi,Mobile SIM Card,Male,3,Good,25,165GB Monthly Plan,35000,9,130.49,No,
+518,70,Gombe,Mobile SIM Card,Female,2,Fair,44,16.5GB+10mins Monthly Plan,6500,9,111.2,No,
+519,70,Gombe,Broadband MiFi,Female,2,Fair,44,300GB FUP Monthly Unlimited,30000,13,115.74,No,
+520,70,Gombe,4G Router,Female,2,Fair,44,10GB+10mins Monthly Plan,4500,4,171.07,No,
+521,73,Abuja (FCT),Broadband MiFi,Male,3,Good,14,30GB Monthly Broadband Plan,9000,5,160.97,No,
+522,73,Abuja (FCT),Mobile SIM Card,Male,3,Good,14,12.5GB Monthly Plan,5500,14,185.21,No,
+523,73,Abuja (FCT),4G Router,Male,3,Good,14,65GB Monthly Plan,16000,8,13.28,No,
+524,26,Rivers,Broadband MiFi,Female,5,Excellent,60,60GB Monthly Broadband Plan,14500,7,88.07,No,
+525,26,Rivers,Mobile SIM Card,Female,5,Excellent,60,16.5GB+10mins Monthly Plan,6500,2,57.56,No,
+526,45,Abuja (FCT),5G Broadband Router,Male,1,Poor,24,450GB 3-Month Broadband Plan,75000,13,70.95,No,
+527,41,Bauchi,5G Broadband Router,Male,1,Poor,48,60GB Monthly Broadband Plan,14500,7,121.47,No,
+528,41,Bauchi,4G Router,Male,1,Poor,48,165GB Monthly Plan,35000,19,185.98,No,
+529,41,Bauchi,Mobile SIM Card,Male,1,Poor,48,2.5GB 2-Day Plan,900,14,52.59,No,
+530,29,Kaduna,5G Broadband Router,Female,5,Excellent,22,450GB 3-Month Broadband Plan,75000,8,112.85,No,
+531,29,Kaduna,Mobile SIM Card,Female,5,Excellent,22,7GB Monthly Plan,3500,15,192.27,No,
+532,29,Kaduna,Mobile SIM Card,Female,5,Excellent,22,165GB Monthly Plan,35000,1,179.36,No,
+533,30,Edo,5G Broadband Router,Male,2,Fair,25,30GB Monthly Broadband Plan,9000,9,140.31,No,
+534,30,Edo,Mobile SIM Card,Male,2,Fair,25,500MB Daily Plan,350,13,57.81,No,
+535,25,Enugu,Mobile SIM Card,Female,2,Fair,21,10GB+10mins Monthly Plan,4500,7,100.05,No,
+536,25,Enugu,5G Broadband Router,Female,2,Fair,21,60GB Monthly Broadband Plan,14500,9,147.22,No,
+537,45,Benue,Broadband MiFi,Male,2,Fair,54,60GB Monthly Broadband Plan,14500,18,122.96,No,
+538,77,Gombe,5G Broadband Router,Female,4,Very Good,32,300GB FUP Monthly Unlimited,30000,14,11.3,Yes,Better Offers from Competitors
+539,77,Gombe,Mobile SIM Card,Female,4,Very Good,32,165GB Monthly Plan,35000,2,187.96,Yes,Better Offers from Competitors
+540,77,Gombe,Broadband MiFi,Female,4,Very Good,32,120GB Monthly Broadband Plan,24000,6,69.78,Yes,Better Offers from Competitors
+541,31,Bauchi,Broadband MiFi,Female,1,Poor,21,300GB FUP Monthly Unlimited,30000,9,122.75,No,
+542,31,Bauchi,Mobile SIM Card,Female,1,Poor,21,10GB+10mins Monthly Plan,4500,8,109.94,No,
+543,76,Bayelsa,5G Broadband Router,Female,4,Very Good,12,120GB Monthly Broadband Plan,24000,19,90.42,Yes,High Call Tarriffs
+544,76,Bayelsa,4G Router,Female,4,Very Good,12,10GB+10mins Monthly Plan,4500,8,195.86,Yes,High Call Tarriffs
+545,50,Imo,Mobile SIM Card,Female,2,Fair,55,2.5GB 2-Day Plan,900,16,35.73,Yes,High Call Tarriffs
+546,56,Yobe,4G Router,Female,4,Very Good,17,25GB Monthly Plan,9000,4,95.57,Yes,Poor Customer Service
+547,58,Edo,Mobile SIM Card,Female,3,Good,24,10GB+10mins Monthly Plan,4500,10,195.88,Yes,Poor Network
+548,58,Edo,5G Broadband Router,Female,3,Good,24,200GB Monthly Broadband Plan,25000,17,65.36,Yes,Poor Network
+549,73,Katsina,4G Router,Female,4,Very Good,40,25GB Monthly Plan,9000,20,84.65,No,
+550,25,Katsina,5G Broadband Router,Male,3,Good,22,450GB 3-Month Broadband Plan,75000,15,54.61,No,
+551,25,Katsina,Mobile SIM Card,Male,3,Good,22,7GB Monthly Plan,3500,17,149.71,No,
+552,68,Abuja (FCT),5G Broadband Router,Male,2,Fair,55,60GB Monthly Broadband Plan,14500,4,33.8,No,
+553,68,Abuja (FCT),Mobile SIM Card,Male,2,Fair,55,3.2GB 2-Day Plan,1000,16,13.23,No,
+554,68,Abuja (FCT),Broadband MiFi,Male,2,Fair,55,120GB Monthly Broadband Plan,24000,13,11.24,No,
+555,26,Anambra,5G Broadband Router,Female,1,Poor,40,60GB Monthly Broadband Plan,14500,15,147.65,No,
+556,26,Anambra,Broadband MiFi,Female,1,Poor,40,150GB FUP Monthly Unlimited,20000,6,26.69,No,
+557,20,Ekiti,5G Broadband Router,Female,4,Very Good,56,300GB FUP Monthly Unlimited,30000,18,193.92,No,
+558,20,Ekiti,Mobile SIM Card,Female,4,Very Good,56,1.5GB 2-Day Plan,600,15,118.37,No,
+559,20,Ekiti,4G Router,Female,4,Very Good,56,165GB Monthly Plan,35000,18,104.93,No,
+560,60,Taraba,5G Broadband Router,Male,4,Very Good,52,120GB Monthly Broadband Plan,24000,17,2.61,No,
+561,60,Taraba,Broadband MiFi,Male,4,Very Good,52,150GB FUP Monthly Unlimited,20000,16,69.11,No,
+562,17,Yobe,4G Router,Female,4,Very Good,20,10GB+10mins Monthly Plan,4500,18,82.64,No,
+563,17,Yobe,Mobile SIM Card,Female,4,Very Good,20,12.5GB Monthly Plan,5500,6,79.25,No,
+564,64,Osun,5G Broadband Router,Female,2,Fair,6,450GB 3-Month Broadband Plan,75000,3,38.01,No,
+565,64,Osun,4G Router,Female,2,Fair,6,10GB+10mins Monthly Plan,4500,4,27.76,No,
+566,64,Osun,Mobile SIM Card,Female,2,Fair,6,12.5GB Monthly Plan,5500,9,123.74,No,
+567,40,Niger,5G Broadband Router,Male,5,Excellent,10,1.5TB Yearly Broadband Plan,150000,8,145.56,Yes,Poor Network
+568,40,Niger,Broadband MiFi,Male,5,Excellent,10,30GB Monthly Broadband Plan,9000,16,30.56,Yes,Poor Network
+569,59,Kogi,5G Broadband Router,Female,3,Good,51,150GB FUP Monthly Unlimited,20000,5,168.79,No,
+570,50,Kebbi,Mobile SIM Card,Male,2,Fair,35,3.2GB 2-Day Plan,1000,8,194.93,Yes,Better Offers from Competitors
+571,50,Kebbi,Broadband MiFi,Male,2,Fair,35,60GB Monthly Broadband Plan,14500,15,154.36,Yes,Better Offers from Competitors
+572,20,Benue,Mobile SIM Card,Female,5,Excellent,48,20GB Monthly Plan,7500,10,136.45,No,
+573,36,Rivers,4G Router,Male,3,Good,17,165GB Monthly Plan,35000,6,65.24,Yes,Poor Network
+574,36,Rivers,Broadband MiFi,Male,3,Good,17,300GB FUP Monthly Unlimited,30000,13,117.15,Yes,Poor Network
+575,36,Rivers,5G Broadband Router,Male,3,Good,17,60GB Monthly Broadband Plan,14500,2,2.28,Yes,Poor Network
+576,35,Gombe,Broadband MiFi,Male,4,Very Good,16,300GB FUP Monthly Unlimited,30000,18,129.09,Yes,Relocation
+577,35,Gombe,Mobile SIM Card,Male,4,Very Good,16,3.2GB 2-Day Plan,1000,8,25.6,Yes,Relocation
+578,60,Nasarawa,Broadband MiFi,Male,3,Good,2,60GB Monthly Broadband Plan,14500,18,112.03,No,
+579,60,Nasarawa,4G Router,Male,3,Good,2,165GB Monthly Plan,35000,6,38.36,No,
+580,60,Niger,5G Broadband Router,Female,1,Poor,18,200GB Monthly Broadband Plan,25000,17,91.09,No,
+581,60,Niger,4G Router,Female,1,Poor,18,165GB Monthly Plan,35000,1,146.86,No,
+582,46,Niger,4G Router,Male,2,Fair,43,25GB Monthly Plan,9000,11,64.86,No,
+583,46,Niger,5G Broadband Router,Male,2,Fair,43,150GB FUP Monthly Unlimited,20000,3,19.7,No,
+584,32,Enugu,Mobile SIM Card,Male,4,Very Good,13,16.5GB+10mins Monthly Plan,6500,19,124.98,Yes,Poor Network
+585,32,Enugu,5G Broadband Router,Male,4,Very Good,13,120GB Monthly Broadband Plan,24000,8,10.29,Yes,Poor Network
+586,32,Enugu,4G Router,Male,4,Very Good,13,65GB Monthly Plan,16000,7,3.11,Yes,Poor Network
+587,26,Sokoto,5G Broadband Router,Male,3,Good,24,30GB Monthly Broadband Plan,9000,10,146.99,No,
+588,43,Bauchi,4G Router,Male,5,Excellent,7,10GB+10mins Monthly Plan,4500,18,111.91,No,
+589,29,Ekiti,Mobile SIM Card,Female,1,Poor,45,1.5GB 2-Day Plan,600,20,107.01,Yes,Poor Customer Service
+590,29,Ekiti,5G Broadband Router,Female,1,Poor,45,1.5TB Yearly Broadband Plan,150000,11,186.74,Yes,Poor Customer Service
+591,29,Ekiti,4G Router,Female,1,Poor,45,25GB Monthly Plan,9000,14,169.05,Yes,Poor Customer Service
+592,57,Imo,Mobile SIM Card,Male,3,Good,25,2.5GB 2-Day Plan,900,20,196.6,No,
+593,57,Imo,Broadband MiFi,Male,3,Good,25,30GB Monthly Broadband Plan,9000,10,103.76,No,
+594,54,Osun,5G Broadband Router,Male,1,Poor,55,150GB FUP Monthly Unlimited,20000,12,8.03,No,
+595,54,Osun,Mobile SIM Card,Male,1,Poor,55,1.5GB 2-Day Plan,600,12,28.11,No,
+596,54,Osun,Broadband MiFi,Male,1,Poor,55,120GB Monthly Broadband Plan,24000,9,50.35,No,
+597,27,Kebbi,Mobile SIM Card,Male,3,Good,47,3.2GB 2-Day Plan,1000,10,119.25,No,
+598,64,Katsina,Mobile SIM Card,Male,3,Good,59,500MB Daily Plan,350,20,149.66,No,
+599,64,Katsina,Broadband MiFi,Male,3,Good,59,30GB Monthly Broadband Plan,9000,13,126.96,No,
+600,55,Bauchi,Mobile SIM Card,Male,3,Good,21,65GB Monthly Plan,16000,13,134.89,No,
+601,80,Katsina,Mobile SIM Card,Male,4,Very Good,28,2.5GB 2-Day Plan,900,9,109.86,Yes,Costly Data Plans
+602,67,Zamfara,Mobile SIM Card,Female,2,Fair,50,20GB Monthly Plan,7500,7,130.62,No,
+603,47,Imo,Broadband MiFi,Male,3,Good,18,60GB Monthly Broadband Plan,14500,7,73.37,No,
+604,47,Imo,Mobile SIM Card,Male,3,Good,18,7GB Monthly Plan,3500,1,69.23,No,
+605,47,Imo,4G Router,Male,3,Good,18,25GB Monthly Plan,9000,12,34.27,No,
+606,34,Nasarawa,Broadband MiFi,Male,2,Fair,60,30GB Monthly Broadband Plan,9000,8,148.05,No,
+607,52,Lagos,5G Broadband Router,Female,3,Good,45,60GB Monthly Broadband Plan,14500,7,148.13,No,
+608,49,Taraba,Broadband MiFi,Male,4,Very Good,45,30GB Monthly Broadband Plan,9000,20,57.16,No,
+609,49,Taraba,4G Router,Male,4,Very Good,45,25GB Monthly Plan,9000,1,11.09,No,
+610,49,Taraba,Mobile SIM Card,Male,4,Very Good,45,3.2GB 2-Day Plan,1000,9,78.03,No,
+611,29,Kano,Broadband MiFi,Female,2,Fair,56,120GB Monthly Broadband Plan,24000,6,106.55,No,
+612,29,Kano,4G Router,Female,2,Fair,56,10GB+10mins Monthly Plan,4500,15,100.38,No,
+613,29,Kano,5G Broadband Router,Female,2,Fair,56,30GB Monthly Broadband Plan,9000,17,8.43,No,
+614,58,Yobe,5G Broadband Router,Female,1,Poor,48,120GB Monthly Broadband Plan,24000,17,47.62,No,
+615,58,Yobe,Mobile SIM Card,Female,1,Poor,48,1GB+1.5mins Daily Plan,500,9,162.47,No,
+616,19,Akwa Ibom,Mobile SIM Card,Male,4,Very Good,10,500MB Daily Plan,350,19,83.76,No,
+617,70,Abia,4G Router,Female,2,Fair,29,10GB+10mins Monthly Plan,4500,5,86.3,No,
+618,70,Abia,Broadband MiFi,Female,2,Fair,29,120GB Monthly Broadband Plan,24000,11,183.46,No,
+619,70,Abia,Mobile SIM Card,Female,2,Fair,29,3.2GB 2-Day Plan,1000,4,111.69,No,
+620,56,Plateau,Mobile SIM Card,Male,4,Very Good,49,1GB+1.5mins Daily Plan,500,7,30.82,No,
+621,56,Plateau,5G Broadband Router,Male,4,Very Good,49,150GB FUP Monthly Unlimited,20000,1,26.74,No,
+622,45,Osun,4G Router,Male,3,Good,44,165GB Monthly Plan,35000,12,142.55,Yes,Better Offers from Competitors
+623,45,Osun,5G Broadband Router,Male,3,Good,44,300GB FUP Monthly Unlimited,30000,16,170.5,Yes,Better Offers from Competitors
+624,33,Abuja (FCT),5G Broadband Router,Male,4,Very Good,15,450GB 3-Month Broadband Plan,75000,7,44.9,No,
+625,24,Enugu,Mobile SIM Card,Female,3,Good,56,20GB Monthly Plan,7500,20,155.35,No,
+626,56,Kebbi,4G Router,Male,4,Very Good,34,165GB Monthly Plan,35000,2,196.77,No,
+627,22,Benue,Mobile SIM Card,Female,3,Good,29,20GB Monthly Plan,7500,2,59.24,No,
+628,22,Benue,Broadband MiFi,Female,3,Good,29,120GB Monthly Broadband Plan,24000,15,180.78,No,
+629,27,Zamfara,Broadband MiFi,Male,4,Very Good,12,60GB Monthly Broadband Plan,14500,7,118.27,No,
+630,27,Zamfara,Mobile SIM Card,Male,4,Very Good,12,12.5GB Monthly Plan,5500,11,18.49,No,
+631,31,Katsina,4G Router,Male,3,Good,46,165GB Monthly Plan,35000,6,9.26,Yes,High Call Tarriffs
+632,31,Katsina,Mobile SIM Card,Male,3,Good,46,7GB Monthly Plan,3500,5,113.32,Yes,High Call Tarriffs
+633,34,Enugu,5G Broadband Router,Male,3,Good,27,300GB FUP Monthly Unlimited,30000,5,23.95,No,
+634,34,Enugu,Mobile SIM Card,Male,3,Good,27,500MB Daily Plan,350,9,1.2,No,
+635,74,Yobe,4G Router,Female,5,Excellent,35,165GB Monthly Plan,35000,15,91.02,No,
+636,16,Imo,Mobile SIM Card,Female,1,Poor,40,2.5GB 2-Day Plan,900,20,133.57,Yes,Poor Network
+637,58,Katsina,4G Router,Male,2,Fair,7,65GB Monthly Plan,16000,10,19.08,Yes,Costly Data Plans
+638,58,Katsina,Mobile SIM Card,Male,2,Fair,7,7GB Monthly Plan,3500,13,74.03,Yes,Costly Data Plans
+639,58,Katsina,5G Broadband Router,Male,2,Fair,7,150GB FUP Monthly Unlimited,20000,18,151.81,Yes,Costly Data Plans
+640,53,Taraba,4G Router,Male,3,Good,8,65GB Monthly Plan,16000,17,22.31,No,
+641,53,Taraba,5G Broadband Router,Male,3,Good,8,150GB FUP Monthly Unlimited,20000,20,96.99,No,
+642,53,Taraba,Broadband MiFi,Male,3,Good,8,300GB FUP Monthly Unlimited,30000,11,85.7,No,
+643,61,Borno,4G Router,Female,4,Very Good,34,10GB+10mins Monthly Plan,4500,1,0.82,No,
+644,61,Borno,5G Broadband Router,Female,4,Very Good,34,1.5TB Yearly Broadband Plan,150000,4,125.28,No,
+645,61,Borno,Mobile SIM Card,Female,4,Very Good,34,500MB Daily Plan,350,14,160.01,No,
+646,21,Bayelsa,5G Broadband Router,Female,1,Poor,36,120GB Monthly Broadband Plan,24000,18,60.41,No,
+647,21,Bayelsa,4G Router,Female,1,Poor,36,25GB Monthly Plan,9000,4,153.52,No,
+648,21,Bayelsa,Broadband MiFi,Female,1,Poor,36,300GB FUP Monthly Unlimited,30000,19,68.6,No,
+649,38,Benue,4G Router,Female,4,Very Good,54,165GB Monthly Plan,35000,15,31.5,No,
+650,58,Sokoto,5G Broadband Router,Female,5,Excellent,60,60GB Monthly Broadband Plan,14500,11,115.69,Yes,High Call Tarriffs
+651,58,Sokoto,Mobile SIM Card,Female,5,Excellent,60,7GB Monthly Plan,3500,5,13.71,Yes,High Call Tarriffs
+652,58,Sokoto,Broadband MiFi,Female,5,Excellent,60,300GB FUP Monthly Unlimited,30000,11,168.23,Yes,High Call Tarriffs
+653,37,Jigawa,Broadband MiFi,Male,3,Good,39,60GB Monthly Broadband Plan,14500,8,17.82,No,
+654,37,Jigawa,4G Router,Male,3,Good,39,25GB Monthly Plan,9000,10,90.66,No,
+655,54,Enugu,Broadband MiFi,Male,2,Fair,24,120GB Monthly Broadband Plan,24000,11,31.24,No,
+656,54,Enugu,4G Router,Male,2,Fair,24,165GB Monthly Plan,35000,17,146.62,No,
+657,57,Plateau,Mobile SIM Card,Male,2,Fair,53,16.5GB+10mins Monthly Plan,6500,10,23.61,No,
+658,57,Plateau,5G Broadband Router,Male,2,Fair,53,30GB Monthly Broadband Plan,9000,20,137.57,No,
+659,58,Sokoto,4G Router,Male,1,Poor,7,10GB+10mins Monthly Plan,4500,9,38.91,No,
+660,58,Sokoto,Mobile SIM Card,Male,1,Poor,7,16.5GB+10mins Monthly Plan,6500,15,64.17,No,
+661,50,Plateau,Broadband MiFi,Male,1,Poor,18,120GB Monthly Broadband Plan,24000,5,64.04,No,
+662,50,Plateau,Mobile SIM Card,Male,1,Poor,18,1GB+1.5mins Daily Plan,500,6,115.03,No,
+663,50,Plateau,4G Router,Male,1,Poor,18,65GB Monthly Plan,16000,11,62.62,No,
+664,72,Oyo,Mobile SIM Card,Male,1,Poor,2,20GB Monthly Plan,7500,20,36.21,Yes,Poor Network
+665,61,Abia,4G Router,Female,5,Excellent,53,165GB Monthly Plan,35000,10,19.9,Yes,Better Offers from Competitors
+666,61,Abia,Broadband MiFi,Female,5,Excellent,53,60GB Monthly Broadband Plan,14500,8,94.37,Yes,Better Offers from Competitors
+667,49,Gombe,Broadband MiFi,Female,3,Good,12,60GB Monthly Broadband Plan,14500,16,23.02,No,
+668,37,Cross River,Broadband MiFi,Female,5,Excellent,39,300GB FUP Monthly Unlimited,30000,13,106.78,Yes,Better Offers from Competitors
+669,37,Cross River,4G Router,Female,5,Excellent,39,165GB Monthly Plan,35000,8,48.1,Yes,Better Offers from Competitors
+670,37,Cross River,Mobile SIM Card,Female,5,Excellent,39,16.5GB+10mins Monthly Plan,6500,16,32.22,Yes,Better Offers from Competitors
+671,24,Bayelsa,4G Router,Male,4,Very Good,53,65GB Monthly Plan,16000,19,148.0,No,
+672,24,Bayelsa,Broadband MiFi,Male,4,Very Good,53,60GB Monthly Broadband Plan,14500,20,23.31,No,
+673,57,Anambra,Mobile SIM Card,Female,4,Very Good,12,2.5GB 2-Day Plan,900,5,18.56,Yes,Poor Network
+674,57,Anambra,4G Router,Female,4,Very Good,12,65GB Monthly Plan,16000,5,151.54,Yes,Poor Network
+675,57,Anambra,5G Broadband Router,Female,4,Very Good,12,1.5TB Yearly Broadband Plan,150000,13,106.49,Yes,Poor Network
+676,41,Ondo,Broadband MiFi,Female,4,Very Good,20,30GB Monthly Broadband Plan,9000,17,122.49,No,
+677,41,Ondo,5G Broadband Router,Female,4,Very Good,20,450GB 3-Month Broadband Plan,75000,10,169.6,No,
+678,63,Oyo,4G Router,Male,1,Poor,46,165GB Monthly Plan,35000,13,140.59,No,
+679,64,Kebbi,Mobile SIM Card,Female,2,Fair,28,7GB Monthly Plan,3500,5,168.07,No,
+680,32,Borno,Mobile SIM Card,Male,2,Fair,5,3.2GB 2-Day Plan,1000,14,27.88,No,
+681,32,Borno,Broadband MiFi,Male,2,Fair,5,60GB Monthly Broadband Plan,14500,20,178.77,No,
+682,39,Sokoto,Mobile SIM Card,Female,4,Very Good,36,2.5GB 2-Day Plan,900,8,115.8,No,
+683,50,Kogi,Broadband MiFi,Female,5,Excellent,3,60GB Monthly Broadband Plan,14500,3,192.37,No,
+684,50,Kogi,5G Broadband Router,Female,5,Excellent,3,300GB FUP Monthly Unlimited,30000,17,146.17,No,
+685,75,Bauchi,Broadband MiFi,Male,2,Fair,34,120GB Monthly Broadband Plan,24000,11,11.03,No,
+686,75,Bauchi,5G Broadband Router,Male,2,Fair,34,30GB Monthly Broadband Plan,9000,17,94.04,No,
+687,75,Bauchi,4G Router,Male,2,Fair,34,165GB Monthly Plan,35000,11,115.01,No,
+688,61,Cross River,5G Broadband Router,Female,5,Excellent,11,300GB FUP Monthly Unlimited,30000,10,114.79,No,
+689,61,Cross River,Broadband MiFi,Female,5,Excellent,11,120GB Monthly Broadband Plan,24000,16,5.95,No,
+690,61,Cross River,4G Router,Female,5,Excellent,11,65GB Monthly Plan,16000,3,25.8,No,
+691,48,Borno,4G Router,Female,1,Poor,18,165GB Monthly Plan,35000,6,74.27,No,
+692,48,Borno,5G Broadband Router,Female,1,Poor,18,120GB Monthly Broadband Plan,24000,8,156.61,No,
+693,48,Borno,Broadband MiFi,Female,1,Poor,18,60GB Monthly Broadband Plan,14500,17,36.57,No,
+694,59,Katsina,Mobile SIM Card,Male,4,Very Good,39,12.5GB Monthly Plan,5500,6,145.34,No,
+695,59,Katsina,Broadband MiFi,Male,4,Very Good,39,150GB FUP Monthly Unlimited,20000,12,115.76,No,
+696,49,Delta,4G Router,Male,4,Very Good,11,165GB Monthly Plan,35000,5,95.18,No,
+697,49,Delta,Mobile SIM Card,Male,4,Very Good,11,16.5GB+10mins Monthly Plan,6500,1,174.12,No,
+698,73,Jigawa,5G Broadband Router,Female,1,Poor,34,200GB Monthly Broadband Plan,25000,4,54.43,No,
+699,73,Jigawa,4G Router,Female,1,Poor,34,25GB Monthly Plan,9000,13,131.04,No,
+700,73,Jigawa,Mobile SIM Card,Female,1,Poor,34,12.5GB Monthly Plan,5500,8,154.74,No,
+701,59,Enugu,Mobile SIM Card,Female,1,Poor,36,3.2GB 2-Day Plan,1000,15,105.29,No,
+702,44,Cross River,4G Router,Female,1,Poor,13,65GB Monthly Plan,16000,4,141.76,No,
+703,32,Jigawa,Broadband MiFi,Male,2,Fair,58,300GB FUP Monthly Unlimited,30000,11,153.99,Yes,Fast Data Consumption
+704,32,Jigawa,5G Broadband Router,Male,2,Fair,58,120GB Monthly Broadband Plan,24000,3,32.81,Yes,Fast Data Consumption
+705,32,Jigawa,4G Router,Male,2,Fair,58,25GB Monthly Plan,9000,13,155.53,Yes,Fast Data Consumption
+706,58,Oyo,4G Router,Female,2,Fair,53,165GB Monthly Plan,35000,16,36.1,No,
+707,58,Oyo,5G Broadband Router,Female,2,Fair,53,150GB FUP Monthly Unlimited,20000,14,29.2,No,
+708,29,Nasarawa,Mobile SIM Card,Female,1,Poor,7,12.5GB Monthly Plan,5500,1,30.2,Yes,High Call Tarriffs
+709,29,Nasarawa,Broadband MiFi,Female,1,Poor,7,30GB Monthly Broadband Plan,9000,9,133.09,Yes,High Call Tarriffs
+710,58,Kebbi,Broadband MiFi,Male,4,Very Good,33,30GB Monthly Broadband Plan,9000,16,77.19,No,
+711,58,Kebbi,5G Broadband Router,Male,4,Very Good,33,150GB FUP Monthly Unlimited,20000,12,113.67,No,
+712,58,Kebbi,Mobile SIM Card,Male,4,Very Good,33,7GB Monthly Plan,3500,13,136.53,No,
+713,27,Gombe,Broadband MiFi,Female,3,Good,6,60GB Monthly Broadband Plan,14500,10,132.32,No,
+714,29,Ekiti,4G Router,Female,2,Fair,6,165GB Monthly Plan,35000,18,78.06,Yes,Poor Customer Service
+715,79,Adamawa,Broadband MiFi,Female,3,Good,2,150GB FUP Monthly Unlimited,20000,17,161.52,Yes,Better Offers from Competitors
+716,79,Adamawa,4G Router,Female,3,Good,2,165GB Monthly Plan,35000,18,188.05,Yes,Better Offers from Competitors
+717,79,Adamawa,Mobile SIM Card,Female,3,Good,2,1.5GB 2-Day Plan,600,8,148.34,Yes,Better Offers from Competitors
+718,20,Plateau,Broadband MiFi,Female,4,Very Good,42,30GB Monthly Broadband Plan,9000,2,34.86,No,
+719,20,Plateau,Mobile SIM Card,Female,4,Very Good,42,1GB+1.5mins Daily Plan,500,4,164.24,No,
+720,20,Plateau,5G Broadband Router,Female,4,Very Good,42,1.5TB Yearly Broadband Plan,150000,19,122.44,No,
+721,29,Delta,5G Broadband Router,Female,1,Poor,39,450GB 3-Month Broadband Plan,75000,19,65.18,No,
+722,29,Delta,Mobile SIM Card,Female,1,Poor,39,16.5GB+10mins Monthly Plan,6500,7,27.9,No,
+723,38,Bayelsa,5G Broadband Router,Male,2,Fair,8,300GB FUP Monthly Unlimited,30000,19,88.01,No,
+724,33,Anambra,Broadband MiFi,Female,1,Poor,50,30GB Monthly Broadband Plan,9000,3,36.29,No,
+725,69,Taraba,4G Router,Male,3,Good,14,65GB Monthly Plan,16000,16,119.46,No,
+726,69,Taraba,Broadband MiFi,Male,3,Good,14,120GB Monthly Broadband Plan,24000,10,190.08,No,
+727,69,Lagos,5G Broadband Router,Male,5,Excellent,13,1.5TB Yearly Broadband Plan,150000,7,154.18,No,
+728,69,Lagos,Mobile SIM Card,Male,5,Excellent,13,1GB+1.5mins Daily Plan,500,4,11.09,No,
+729,69,Lagos,Broadband MiFi,Male,5,Excellent,13,150GB FUP Monthly Unlimited,20000,16,137.21,No,
+730,38,Abuja (FCT),Mobile SIM Card,Male,3,Good,4,3.2GB 2-Day Plan,1000,18,148.21,Yes,Costly Data Plans
+731,38,Abuja (FCT),Broadband MiFi,Male,3,Good,4,150GB FUP Monthly Unlimited,20000,1,32.03,Yes,Costly Data Plans
+732,30,Kaduna,4G Router,Male,5,Excellent,47,25GB Monthly Plan,9000,4,46.4,No,
+733,30,Kaduna,5G Broadband Router,Male,5,Excellent,47,200GB Monthly Broadband Plan,25000,8,45.94,No,
+734,41,Jigawa,4G Router,Male,5,Excellent,5,165GB Monthly Plan,35000,12,36.02,No,
+735,41,Jigawa,Broadband MiFi,Male,5,Excellent,5,150GB FUP Monthly Unlimited,20000,7,91.82,No,
+736,50,Benue,Mobile SIM Card,Female,5,Excellent,9,12.5GB Monthly Plan,5500,11,83.94,Yes,Poor Customer Service
+737,53,Abuja (FCT),Mobile SIM Card,Male,1,Poor,37,12.5GB Monthly Plan,5500,14,56.19,No,
+738,53,Abuja (FCT),Broadband MiFi,Male,1,Poor,37,150GB FUP Monthly Unlimited,20000,14,49.94,No,
+739,53,Abuja (FCT),4G Router,Male,1,Poor,37,10GB+10mins Monthly Plan,4500,19,178.42,No,
+740,16,Kogi,Mobile SIM Card,Male,5,Excellent,3,3.2GB 2-Day Plan,1000,8,90.76,Yes,Relocation
+741,17,Kogi,Mobile SIM Card,Male,3,Good,9,1GB+1.5mins Daily Plan,500,15,32.78,Yes,Poor Network
+742,74,Sokoto,Mobile SIM Card,Male,2,Fair,56,2.5GB 2-Day Plan,900,3,172.15,No,
+743,74,Sokoto,5G Broadband Router,Male,2,Fair,56,450GB 3-Month Broadband Plan,75000,11,178.74,No,
+744,20,Cross River,Broadband MiFi,Female,5,Excellent,49,120GB Monthly Broadband Plan,24000,2,176.23,No,
+745,62,Oyo,5G Broadband Router,Male,4,Very Good,25,150GB FUP Monthly Unlimited,20000,7,112.37,No,
+746,62,Oyo,Broadband MiFi,Male,4,Very Good,25,150GB FUP Monthly Unlimited,20000,8,196.26,No,
+747,30,Taraba,Mobile SIM Card,Male,3,Good,49,2.5GB 2-Day Plan,900,12,13.14,No,
+748,30,Taraba,4G Router,Male,3,Good,49,165GB Monthly Plan,35000,17,97.5,No,
+749,76,Adamawa,Broadband MiFi,Female,1,Poor,29,60GB Monthly Broadband Plan,14500,10,179.64,Yes,Fast Data Consumption
+750,29,Abuja (FCT),Broadband MiFi,Female,4,Very Good,8,120GB Monthly Broadband Plan,24000,16,186.38,Yes,Poor Customer Service
+751,29,Abuja (FCT),4G Router,Female,4,Very Good,8,25GB Monthly Plan,9000,1,84.32,Yes,Poor Customer Service
+752,29,Abuja (FCT),5G Broadband Router,Female,4,Very Good,8,120GB Monthly Broadband Plan,24000,1,38.22,Yes,Poor Customer Service
+753,58,Kogi,Mobile SIM Card,Female,4,Very Good,42,1.5GB 2-Day Plan,600,10,179.71,No,
+754,58,Kogi,4G Router,Female,4,Very Good,42,10GB+10mins Monthly Plan,4500,8,157.96,No,
+755,58,Kogi,5G Broadband Router,Female,4,Very Good,42,1.5TB Yearly Broadband Plan,150000,10,74.69,No,
+756,34,Ekiti,5G Broadband Router,Female,5,Excellent,30,300GB FUP Monthly Unlimited,30000,4,32.67,No,
+757,34,Ekiti,Broadband MiFi,Female,5,Excellent,30,30GB Monthly Broadband Plan,9000,19,198.76,No,
+758,34,Ekiti,Mobile SIM Card,Female,5,Excellent,30,1.5GB 2-Day Plan,600,12,88.46,No,
+759,42,Rivers,5G Broadband Router,Female,3,Good,23,150GB FUP Monthly Unlimited,20000,13,184.13,No,
+760,34,Sokoto,5G Broadband Router,Female,5,Excellent,10,120GB Monthly Broadband Plan,24000,19,193.94,No,
+761,34,Sokoto,4G Router,Female,5,Excellent,10,10GB+10mins Monthly Plan,4500,15,160.02,No,
+762,30,Taraba,Mobile SIM Card,Male,3,Good,9,7GB Monthly Plan,3500,2,18.95,Yes,Relocation
+763,44,Akwa Ibom,Broadband MiFi,Male,5,Excellent,2,150GB FUP Monthly Unlimited,20000,20,98.35,No,
+764,44,Akwa Ibom,5G Broadband Router,Male,5,Excellent,2,30GB Monthly Broadband Plan,9000,12,181.74,No,
+765,44,Akwa Ibom,4G Router,Male,5,Excellent,2,165GB Monthly Plan,35000,14,30.02,No,
+766,65,Gombe,Broadband MiFi,Male,3,Good,19,60GB Monthly Broadband Plan,14500,14,148.43,No,
+767,65,Gombe,Mobile SIM Card,Male,3,Good,19,12.5GB Monthly Plan,5500,14,58.08,No,
+768,33,Katsina,5G Broadband Router,Male,4,Very Good,14,150GB FUP Monthly Unlimited,20000,9,1.82,No,
+769,33,Katsina,Broadband MiFi,Male,4,Very Good,14,60GB Monthly Broadband Plan,14500,15,35.39,No,
+770,33,Katsina,4G Router,Male,4,Very Good,14,10GB+10mins Monthly Plan,4500,13,40.25,No,
+771,78,Rivers,4G Router,Female,4,Very Good,54,65GB Monthly Plan,16000,10,31.23,No,
+772,78,Rivers,Broadband MiFi,Female,4,Very Good,54,60GB Monthly Broadband Plan,14500,10,25.27,No,
+773,38,Yobe,5G Broadband Router,Male,3,Good,2,1.5TB Yearly Broadband Plan,150000,9,113.33,No,
+774,31,Gombe,5G Broadband Router,Male,2,Fair,55,1.5TB Yearly Broadband Plan,150000,5,175.72,No,
+775,36,Oyo,Broadband MiFi,Female,3,Good,24,150GB FUP Monthly Unlimited,20000,20,153.06,Yes,Costly Data Plans
+776,36,Oyo,5G Broadband Router,Female,3,Good,24,300GB FUP Monthly Unlimited,30000,11,108.97,Yes,Costly Data Plans
+777,36,Oyo,Mobile SIM Card,Female,3,Good,24,1GB+1.5mins Daily Plan,500,12,54.66,Yes,Costly Data Plans
+778,61,Plateau,5G Broadband Router,Male,3,Good,9,150GB FUP Monthly Unlimited,20000,17,43.97,No,
+779,61,Plateau,Broadband MiFi,Male,3,Good,9,150GB FUP Monthly Unlimited,20000,18,166.4,No,
+780,30,Kogi,Mobile SIM Card,Female,1,Poor,59,7GB Monthly Plan,3500,12,62.66,No,
+781,72,Bauchi,4G Router,Female,1,Poor,12,10GB+10mins Monthly Plan,4500,5,171.43,No,
+782,55,Borno,Broadband MiFi,Male,4,Very Good,9,30GB Monthly Broadband Plan,9000,14,155.05,No,
+783,41,Anambra,Broadband MiFi,Male,4,Very Good,51,300GB FUP Monthly Unlimited,30000,4,133.68,Yes,Costly Data Plans
+784,42,Benue,5G Broadband Router,Male,1,Poor,43,200GB Monthly Broadband Plan,25000,17,32.53,Yes,Better Offers from Competitors
+785,42,Benue,Mobile SIM Card,Male,1,Poor,43,500MB Daily Plan,350,3,101.23,Yes,Better Offers from Competitors
+786,42,Benue,4G Router,Male,1,Poor,43,65GB Monthly Plan,16000,1,164.01,Yes,Better Offers from Competitors
+787,43,Benue,Mobile SIM Card,Female,1,Poor,11,12.5GB Monthly Plan,5500,4,134.87,No,
+788,43,Benue,4G Router,Female,1,Poor,11,10GB+10mins Monthly Plan,4500,13,167.03,No,
+789,43,Benue,Broadband MiFi,Female,1,Poor,11,60GB Monthly Broadband Plan,14500,8,43.25,No,
+790,30,Niger,5G Broadband Router,Male,5,Excellent,30,30GB Monthly Broadband Plan,9000,16,16.91,Yes,Better Offers from Competitors
+791,30,Niger,Mobile SIM Card,Male,5,Excellent,30,3.2GB 2-Day Plan,1000,15,77.26,Yes,Better Offers from Competitors
+792,72,Osun,5G Broadband Router,Female,2,Fair,19,30GB Monthly Broadband Plan,9000,16,199.75,No,
+793,72,Osun,Broadband MiFi,Female,2,Fair,19,30GB Monthly Broadband Plan,9000,17,79.58,No,
+794,31,Plateau,4G Router,Female,2,Fair,26,165GB Monthly Plan,35000,14,24.99,Yes,Poor Customer Service
+795,31,Plateau,5G Broadband Router,Female,2,Fair,26,1.5TB Yearly Broadband Plan,150000,19,56.06,Yes,Poor Customer Service
+796,67,Ekiti,Mobile SIM Card,Female,4,Very Good,43,3.2GB 2-Day Plan,1000,16,24.88,No,
+797,45,Borno,4G Router,Male,1,Poor,7,165GB Monthly Plan,35000,11,121.11,No,
+798,54,Anambra,Mobile SIM Card,Male,4,Very Good,43,1GB+1.5mins Daily Plan,500,18,108.72,Yes,High Call Tarriffs
+799,54,Anambra,5G Broadband Router,Male,4,Very Good,43,30GB Monthly Broadband Plan,9000,2,190.54,Yes,High Call Tarriffs
+800,31,Jigawa,4G Router,Female,4,Very Good,21,25GB Monthly Plan,9000,6,177.0,No,
+801,71,Borno,Mobile SIM Card,Female,4,Very Good,46,12.5GB Monthly Plan,5500,6,112.67,No,
+802,71,Borno,5G Broadband Router,Female,4,Very Good,46,30GB Monthly Broadband Plan,9000,16,78.58,No,
+803,71,Borno,4G Router,Female,4,Very Good,46,165GB Monthly Plan,35000,12,123.58,No,
+804,57,Oyo,Broadband MiFi,Male,2,Fair,38,300GB FUP Monthly Unlimited,30000,14,76.42,No,
+805,57,Oyo,5G Broadband Router,Male,2,Fair,38,200GB Monthly Broadband Plan,25000,14,198.39,No,
+806,23,Imo,5G Broadband Router,Male,5,Excellent,16,150GB FUP Monthly Unlimited,20000,1,67.85,Yes,High Call Tarriffs
+807,57,Rivers,5G Broadband Router,Female,5,Excellent,43,1.5TB Yearly Broadband Plan,150000,11,117.8,No,
+808,57,Rivers,Broadband MiFi,Female,5,Excellent,43,60GB Monthly Broadband Plan,14500,11,114.29,No,
+809,78,Anambra,5G Broadband Router,Male,5,Excellent,22,200GB Monthly Broadband Plan,25000,7,193.9,No,
+810,78,Anambra,Broadband MiFi,Male,5,Excellent,22,60GB Monthly Broadband Plan,14500,3,127.27,No,
+811,78,Anambra,4G Router,Male,5,Excellent,22,10GB+10mins Monthly Plan,4500,2,57.83,No,
+812,67,Osun,Mobile SIM Card,Male,5,Excellent,46,20GB Monthly Plan,7500,3,42.34,No,
+813,80,Abia,Mobile SIM Card,Female,2,Fair,43,16.5GB+10mins Monthly Plan,6500,1,36.53,No,
+814,80,Abia,5G Broadband Router,Female,2,Fair,43,300GB FUP Monthly Unlimited,30000,7,115.58,No,
+815,50,Adamawa,4G Router,Female,5,Excellent,60,10GB+10mins Monthly Plan,4500,10,149.41,Yes,Fast Data Consumption
+816,68,Niger,4G Router,Male,4,Very Good,41,165GB Monthly Plan,35000,5,48.08,Yes,Costly Data Plans
+817,68,Niger,Mobile SIM Card,Male,4,Very Good,41,500MB Daily Plan,350,10,6.03,Yes,Costly Data Plans
+818,68,Niger,Broadband MiFi,Male,4,Very Good,41,60GB Monthly Broadband Plan,14500,14,97.33,Yes,Costly Data Plans
+819,20,Benue,4G Router,Male,1,Poor,18,65GB Monthly Plan,16000,16,192.78,Yes,Better Offers from Competitors
+820,20,Benue,5G Broadband Router,Male,1,Poor,18,30GB Monthly Broadband Plan,9000,3,11.54,Yes,Better Offers from Competitors
+821,54,Kaduna,4G Router,Female,1,Poor,58,65GB Monthly Plan,16000,19,104.63,No,
+822,54,Kaduna,Broadband MiFi,Female,1,Poor,58,120GB Monthly Broadband Plan,24000,3,50.74,No,
+823,54,Kaduna,5G Broadband Router,Female,1,Poor,58,60GB Monthly Broadband Plan,14500,11,120.16,No,
+824,65,Imo,Mobile SIM Card,Female,1,Poor,14,2.5GB 2-Day Plan,900,12,98.33,Yes,Costly Data Plans
+825,65,Imo,4G Router,Female,1,Poor,14,65GB Monthly Plan,16000,14,63.64,Yes,Costly Data Plans
+826,47,Akwa Ibom,Broadband MiFi,Male,3,Good,24,30GB Monthly Broadband Plan,9000,8,138.29,No,
+827,65,Abia,Mobile SIM Card,Female,5,Excellent,58,20GB Monthly Plan,7500,9,185.54,No,
+828,65,Abia,Broadband MiFi,Female,5,Excellent,58,300GB FUP Monthly Unlimited,30000,8,18.5,No,
+829,42,Abuja (FCT),Broadband MiFi,Female,4,Very Good,41,60GB Monthly Broadband Plan,14500,11,147.52,No,
+830,42,Abuja (FCT),4G Router,Female,4,Very Good,41,165GB Monthly Plan,35000,4,175.41,No,
+831,49,Zamfara,5G Broadband Router,Male,5,Excellent,23,30GB Monthly Broadband Plan,9000,6,128.45,No,
+832,49,Zamfara,4G Router,Male,5,Excellent,23,165GB Monthly Plan,35000,5,158.31,No,
+833,49,Zamfara,Broadband MiFi,Male,5,Excellent,23,30GB Monthly Broadband Plan,9000,10,80.43,No,
+834,26,Delta,Mobile SIM Card,Male,5,Excellent,16,1.5GB 2-Day Plan,600,19,52.51,No,
+835,26,Delta,4G Router,Male,5,Excellent,16,25GB Monthly Plan,9000,7,160.01,No,
+836,69,Gombe,4G Router,Male,5,Excellent,26,10GB+10mins Monthly Plan,4500,6,52.73,Yes,Poor Network
+837,69,Gombe,Broadband MiFi,Male,5,Excellent,26,30GB Monthly Broadband Plan,9000,14,80.51,Yes,Poor Network
+838,69,Gombe,Mobile SIM Card,Male,5,Excellent,26,1GB+1.5mins Daily Plan,500,12,30.28,Yes,Poor Network
+839,31,Lagos,4G Router,Female,4,Very Good,50,25GB Monthly Plan,9000,16,57.95,Yes,High Call Tarriffs
+840,32,Kwara,Mobile SIM Card,Male,3,Good,39,1.5GB 2-Day Plan,600,5,82.0,No,
+841,53,Edo,Mobile SIM Card,Male,2,Fair,40,12.5GB Monthly Plan,5500,11,27.07,No,
+842,53,Edo,Broadband MiFi,Male,2,Fair,40,60GB Monthly Broadband Plan,14500,13,137.53,No,
+843,53,Edo,5G Broadband Router,Male,2,Fair,40,450GB 3-Month Broadband Plan,75000,9,147.35,No,
+844,28,Oyo,Broadband MiFi,Male,4,Very Good,22,120GB Monthly Broadband Plan,24000,10,124.12,No,
+845,28,Oyo,Mobile SIM Card,Male,4,Very Good,22,20GB Monthly Plan,7500,5,134.42,No,
+846,28,Oyo,4G Router,Male,4,Very Good,22,65GB Monthly Plan,16000,9,116.31,No,
+847,80,Yobe,Mobile SIM Card,Female,2,Fair,57,3.2GB 2-Day Plan,1000,5,63.0,Yes,High Call Tarriffs
+848,80,Yobe,Broadband MiFi,Female,2,Fair,57,60GB Monthly Broadband Plan,14500,9,174.4,Yes,High Call Tarriffs
+849,80,Yobe,4G Router,Female,2,Fair,57,25GB Monthly Plan,9000,10,185.28,Yes,High Call Tarriffs
+850,49,Bauchi,4G Router,Female,3,Good,28,165GB Monthly Plan,35000,5,11.12,No,
+851,49,Bauchi,5G Broadband Router,Female,3,Good,28,30GB Monthly Broadband Plan,9000,2,46.36,No,
+852,49,Abuja (FCT),Mobile SIM Card,Female,4,Very Good,28,3.2GB 2-Day Plan,1000,5,169.24,Yes,Costly Data Plans
+853,49,Abuja (FCT),4G Router,Female,4,Very Good,28,65GB Monthly Plan,16000,7,70.25,Yes,Costly Data Plans
+854,49,Abuja (FCT),5G Broadband Router,Female,4,Very Good,28,120GB Monthly Broadband Plan,24000,6,36.54,Yes,Costly Data Plans
+855,50,Ondo,Mobile SIM Card,Male,4,Very Good,34,3.2GB 2-Day Plan,1000,1,177.53,No,
+856,31,Kebbi,Mobile SIM Card,Female,3,Good,38,1GB+1.5mins Daily Plan,500,1,119.04,Yes,Poor Network
+857,31,Kebbi,4G Router,Female,3,Good,38,25GB Monthly Plan,9000,20,193.97,Yes,Poor Network
+858,57,Borno,Broadband MiFi,Male,3,Good,56,120GB Monthly Broadband Plan,24000,13,190.4,No,
+859,67,Edo,Mobile SIM Card,Male,1,Poor,16,20GB Monthly Plan,7500,5,57.34,Yes,Poor Customer Service
+860,54,Yobe,5G Broadband Router,Female,5,Excellent,48,60GB Monthly Broadband Plan,14500,13,98.18,Yes,High Call Tarriffs
+861,50,Kwara,Mobile SIM Card,Male,3,Good,49,2.5GB 2-Day Plan,900,15,102.91,No,
+862,50,Kwara,Broadband MiFi,Male,3,Good,49,150GB FUP Monthly Unlimited,20000,5,129.7,No,
+863,26,Cross River,5G Broadband Router,Female,4,Very Good,28,60GB Monthly Broadband Plan,14500,10,104.86,No,
+864,25,Rivers,5G Broadband Router,Male,4,Very Good,33,150GB FUP Monthly Unlimited,20000,1,153.85,Yes,High Call Tarriffs
+865,25,Rivers,4G Router,Male,4,Very Good,33,65GB Monthly Plan,16000,15,148.23,Yes,High Call Tarriffs
+866,25,Rivers,Mobile SIM Card,Male,4,Very Good,33,1.5GB 2-Day Plan,600,13,157.34,Yes,High Call Tarriffs
+867,26,Kogi,5G Broadband Router,Female,4,Very Good,21,60GB Monthly Broadband Plan,14500,20,37.42,No,
+868,26,Kogi,Broadband MiFi,Female,4,Very Good,21,300GB FUP Monthly Unlimited,30000,4,174.39,No,
+869,18,Lagos,Mobile SIM Card,Female,2,Fair,8,16.5GB+10mins Monthly Plan,6500,20,60.91,No,
+870,66,Abia,4G Router,Male,1,Poor,9,65GB Monthly Plan,16000,5,42.24,Yes,Better Offers from Competitors
+871,71,Adamawa,Broadband MiFi,Male,4,Very Good,6,150GB FUP Monthly Unlimited,20000,15,180.53,Yes,Fast Data Consumption
+872,76,Kano,Broadband MiFi,Female,2,Fair,38,30GB Monthly Broadband Plan,9000,14,20.98,Yes,Better Offers from Competitors
+873,76,Kano,4G Router,Female,2,Fair,38,165GB Monthly Plan,35000,19,169.8,Yes,Better Offers from Competitors
+874,20,Yobe,Broadband MiFi,Female,2,Fair,32,120GB Monthly Broadband Plan,24000,14,13.17,No,
+875,20,Yobe,4G Router,Female,2,Fair,32,165GB Monthly Plan,35000,20,23.83,No,
+876,20,Yobe,5G Broadband Router,Female,2,Fair,32,200GB Monthly Broadband Plan,25000,14,89.94,No,
+877,36,Cross River,5G Broadband Router,Male,4,Very Good,31,300GB FUP Monthly Unlimited,30000,13,176.69,Yes,Poor Customer Service
+878,36,Cross River,Mobile SIM Card,Male,4,Very Good,31,20GB Monthly Plan,7500,12,166.7,Yes,Poor Customer Service
+879,36,Cross River,4G Router,Male,4,Very Good,31,165GB Monthly Plan,35000,6,160.05,Yes,Poor Customer Service
+880,52,Katsina,Mobile SIM Card,Female,2,Fair,9,12.5GB Monthly Plan,5500,7,61.08,Yes,Fast Data Consumption
+881,18,Ekiti,Mobile SIM Card,Female,2,Fair,23,12.5GB Monthly Plan,5500,8,23.24,No,
+882,18,Ekiti,4G Router,Female,2,Fair,23,10GB+10mins Monthly Plan,4500,16,112.62,No,
+883,59,Ekiti,Broadband MiFi,Male,2,Fair,50,60GB Monthly Broadband Plan,14500,4,159.9,No,
+884,59,Ekiti,5G Broadband Router,Male,2,Fair,50,150GB FUP Monthly Unlimited,20000,20,156.44,No,
+885,59,Ekiti,Mobile SIM Card,Male,2,Fair,50,3.2GB 2-Day Plan,1000,2,164.81,No,
+886,29,Abuja (FCT),Mobile SIM Card,Male,3,Good,56,3.2GB 2-Day Plan,1000,12,31.28,Yes,Costly Data Plans
+887,29,Abuja (FCT),5G Broadband Router,Male,3,Good,56,200GB Monthly Broadband Plan,25000,4,163.92,Yes,Costly Data Plans
+888,29,Abuja (FCT),4G Router,Male,3,Good,56,10GB+10mins Monthly Plan,4500,14,88.1,Yes,Costly Data Plans
+889,47,Taraba,5G Broadband Router,Female,1,Poor,19,60GB Monthly Broadband Plan,14500,17,30.75,Yes,High Call Tarriffs
+890,47,Taraba,Mobile SIM Card,Female,1,Poor,19,20GB Monthly Plan,7500,5,157.55,Yes,High Call Tarriffs
+891,68,Kogi,Broadband MiFi,Female,1,Poor,55,30GB Monthly Broadband Plan,9000,13,67.99,No,
+892,71,Oyo,5G Broadband Router,Female,2,Fair,49,450GB 3-Month Broadband Plan,75000,18,80.7,No,
+893,56,Ekiti,Mobile SIM Card,Male,5,Excellent,53,12.5GB Monthly Plan,5500,18,128.95,No,
+894,60,Kebbi,4G Router,Male,1,Poor,57,25GB Monthly Plan,9000,17,43.14,Yes,Costly Data Plans
+895,60,Kebbi,5G Broadband Router,Male,1,Poor,57,120GB Monthly Broadband Plan,24000,6,104.51,Yes,Costly Data Plans
+896,49,Zamfara,Broadband MiFi,Female,1,Poor,8,150GB FUP Monthly Unlimited,20000,19,161.17,No,
+897,49,Zamfara,4G Router,Female,1,Poor,8,10GB+10mins Monthly Plan,4500,10,70.39,No,
+898,49,Zamfara,5G Broadband Router,Female,1,Poor,8,300GB FUP Monthly Unlimited,30000,17,143.01,No,
+899,29,Niger,Mobile SIM Card,Male,4,Very Good,53,3.2GB 2-Day Plan,1000,5,12.91,Yes,High Call Tarriffs
+900,29,Niger,Broadband MiFi,Male,4,Very Good,53,60GB Monthly Broadband Plan,14500,3,43.35,Yes,High Call Tarriffs
+901,67,Bauchi,Mobile SIM Card,Female,5,Excellent,56,12.5GB Monthly Plan,5500,14,146.48,No,
+902,67,Bauchi,5G Broadband Router,Female,5,Excellent,56,300GB FUP Monthly Unlimited,30000,5,29.3,No,
+903,74,Borno,4G Router,Male,4,Very Good,45,65GB Monthly Plan,16000,14,120.52,No,
+904,74,Borno,5G Broadband Router,Male,4,Very Good,45,150GB FUP Monthly Unlimited,20000,19,24.61,No,
+905,74,Borno,Mobile SIM Card,Male,4,Very Good,45,1GB+1.5mins Daily Plan,500,5,8.54,No,
+906,63,Abia,Mobile SIM Card,Female,4,Very Good,20,2.5GB 2-Day Plan,900,10,187.4,Yes,Poor Customer Service
+907,43,Enugu,Mobile SIM Card,Female,5,Excellent,1,12.5GB Monthly Plan,5500,19,114.83,No,
+908,59,Jigawa,Mobile SIM Card,Female,2,Fair,54,12.5GB Monthly Plan,5500,11,30.22,No,
+909,59,Jigawa,5G Broadband Router,Female,2,Fair,54,150GB FUP Monthly Unlimited,20000,20,160.06,No,
+910,65,Osun,Broadband MiFi,Female,4,Very Good,22,120GB Monthly Broadband Plan,24000,10,126.21,No,
+911,65,Osun,Mobile SIM Card,Female,4,Very Good,22,16.5GB+10mins Monthly Plan,6500,18,129.21,No,
+912,65,Osun,5G Broadband Router,Female,4,Very Good,22,150GB FUP Monthly Unlimited,20000,20,38.89,No,
+913,22,Bauchi,4G Router,Male,5,Excellent,49,65GB Monthly Plan,16000,7,55.36,No,
+914,72,Katsina,5G Broadband Router,Female,4,Very Good,26,450GB 3-Month Broadband Plan,75000,1,36.51,No,
+915,56,Jigawa,4G Router,Female,1,Poor,6,25GB Monthly Plan,9000,5,153.78,No,
+916,56,Jigawa,Broadband MiFi,Female,1,Poor,6,300GB FUP Monthly Unlimited,30000,6,190.46,No,
+917,57,Enugu,4G Router,Male,3,Good,46,25GB Monthly Plan,9000,4,51.96,No,
+918,57,Enugu,Mobile SIM Card,Male,3,Good,46,2.5GB 2-Day Plan,900,20,40.91,No,
+919,79,Zamfara,Mobile SIM Card,Female,1,Poor,8,2.5GB 2-Day Plan,900,8,81.8,No,
+920,79,Zamfara,Broadband MiFi,Female,1,Poor,8,30GB Monthly Broadband Plan,9000,19,54.2,No,
+921,79,Zamfara,4G Router,Female,1,Poor,8,65GB Monthly Plan,16000,18,49.64,No,
+922,54,Kogi,4G Router,Female,2,Fair,6,165GB Monthly Plan,35000,18,192.29,No,
+923,21,Lagos,5G Broadband Router,Female,2,Fair,54,450GB 3-Month Broadband Plan,75000,7,199.85,Yes,Fast Data Consumption
+924,21,Lagos,Mobile SIM Card,Female,2,Fair,54,16.5GB+10mins Monthly Plan,6500,6,56.62,Yes,Fast Data Consumption
+925,24,Abia,Mobile SIM Card,Male,2,Fair,26,16.5GB+10mins Monthly Plan,6500,11,191.5,No,
+926,24,Abia,Broadband MiFi,Male,2,Fair,26,300GB FUP Monthly Unlimited,30000,15,127.22,No,
+927,47,Niger,4G Router,Female,5,Excellent,14,165GB Monthly Plan,35000,1,1.35,No,
+928,47,Niger,5G Broadband Router,Female,5,Excellent,14,300GB FUP Monthly Unlimited,30000,16,82.93,No,
+929,47,Niger,Broadband MiFi,Female,5,Excellent,14,60GB Monthly Broadband Plan,14500,3,107.86,No,
+930,75,Gombe,5G Broadband Router,Male,2,Fair,29,150GB FUP Monthly Unlimited,20000,10,163.35,No,
+931,75,Gombe,Broadband MiFi,Male,2,Fair,29,150GB FUP Monthly Unlimited,20000,16,47.23,No,
+932,20,Akwa Ibom,Mobile SIM Card,Female,1,Poor,58,16.5GB+10mins Monthly Plan,6500,18,99.06,Yes,Better Offers from Competitors
+933,20,Akwa Ibom,Broadband MiFi,Female,1,Poor,58,150GB FUP Monthly Unlimited,20000,19,132.14,Yes,Better Offers from Competitors
+934,20,Akwa Ibom,4G Router,Female,1,Poor,58,10GB+10mins Monthly Plan,4500,5,13.54,Yes,Better Offers from Competitors
+935,32,Edo,5G Broadband Router,Male,2,Fair,57,1.5TB Yearly Broadband Plan,150000,14,0.89,No,
+936,57,Kwara,Broadband MiFi,Female,5,Excellent,18,150GB FUP Monthly Unlimited,20000,14,9.87,No,
+937,57,Kwara,5G Broadband Router,Female,5,Excellent,18,1.5TB Yearly Broadband Plan,150000,13,63.59,No,
+938,58,Katsina,4G Router,Male,4,Very Good,48,10GB+10mins Monthly Plan,4500,3,66.18,No,
+939,76,Imo,Broadband MiFi,Female,3,Good,54,120GB Monthly Broadband Plan,24000,4,124.1,No,
+940,31,Katsina,Broadband MiFi,Male,4,Very Good,59,60GB Monthly Broadband Plan,14500,20,11.43,No,
+941,31,Katsina,Mobile SIM Card,Male,4,Very Good,59,20GB Monthly Plan,7500,2,13.63,No,
+942,31,Katsina,5G Broadband Router,Male,4,Very Good,59,30GB Monthly Broadband Plan,9000,13,59.34,No,
+943,28,Kogi,Broadband MiFi,Male,4,Very Good,56,30GB Monthly Broadband Plan,9000,11,91.09,No,
+944,28,Kogi,4G Router,Male,4,Very Good,56,10GB+10mins Monthly Plan,4500,1,22.05,No,
+945,40,Borno,4G Router,Female,4,Very Good,23,10GB+10mins Monthly Plan,4500,2,159.51,No,
+946,40,Borno,Broadband MiFi,Female,4,Very Good,23,150GB FUP Monthly Unlimited,20000,14,62.68,No,
+947,61,Abia,5G Broadband Router,Male,3,Good,10,300GB FUP Monthly Unlimited,30000,17,11.93,No,
+948,61,Abia,Broadband MiFi,Male,3,Good,10,120GB Monthly Broadband Plan,24000,14,171.81,No,
+949,41,Benue,Mobile SIM Card,Male,3,Good,51,7GB Monthly Plan,3500,14,123.41,Yes,Fast Data Consumption
+950,41,Benue,5G Broadband Router,Male,3,Good,51,200GB Monthly Broadband Plan,25000,15,32.87,Yes,Fast Data Consumption
+951,41,Benue,4G Router,Male,3,Good,51,65GB Monthly Plan,16000,1,99.44,Yes,Fast Data Consumption
+952,45,Sokoto,4G Router,Male,3,Good,16,10GB+10mins Monthly Plan,4500,1,165.3,No,
+953,45,Sokoto,Mobile SIM Card,Male,3,Good,16,7GB Monthly Plan,3500,12,2.47,No,
+954,30,Plateau,Broadband MiFi,Female,5,Excellent,29,150GB FUP Monthly Unlimited,20000,6,39.97,No,
+955,30,Plateau,Mobile SIM Card,Female,5,Excellent,29,500MB Daily Plan,350,6,177.13,No,
+956,47,Enugu,4G Router,Male,3,Good,2,165GB Monthly Plan,35000,4,131.15,No,
+957,42,Abia,Mobile SIM Card,Female,3,Good,16,3.2GB 2-Day Plan,1000,5,29.31,No,
+958,42,Abia,5G Broadband Router,Female,3,Good,16,60GB Monthly Broadband Plan,14500,13,38.74,No,
+959,42,Abia,Broadband MiFi,Female,3,Good,16,300GB FUP Monthly Unlimited,30000,14,63.93,No,
+960,21,Benue,4G Router,Female,3,Good,51,165GB Monthly Plan,35000,3,42.24,Yes,High Call Tarriffs
+961,21,Benue,5G Broadband Router,Female,3,Good,51,1.5TB Yearly Broadband Plan,150000,20,158.3,Yes,High Call Tarriffs
+962,37,Zamfara,5G Broadband Router,Female,4,Very Good,49,200GB Monthly Broadband Plan,25000,16,105.33,No,
+963,76,Akwa Ibom,4G Router,Female,2,Fair,41,10GB+10mins Monthly Plan,4500,13,61.55,Yes,Poor Customer Service
+964,76,Akwa Ibom,Mobile SIM Card,Female,2,Fair,41,1.5GB 2-Day Plan,600,12,187.13,Yes,Poor Customer Service
+965,26,Borno,Broadband MiFi,Male,5,Excellent,19,60GB Monthly Broadband Plan,14500,14,90.5,No,
+966,26,Borno,4G Router,Male,5,Excellent,19,165GB Monthly Plan,35000,16,73.82,No,
+967,26,Borno,5G Broadband Router,Male,5,Excellent,19,200GB Monthly Broadband Plan,25000,1,54.97,No,
+968,72,Osun,Broadband MiFi,Female,3,Good,42,150GB FUP Monthly Unlimited,20000,3,20.13,No,
+969,72,Osun,4G Router,Female,3,Good,42,25GB Monthly Plan,9000,7,8.14,No,
+970,41,Bayelsa,5G Broadband Router,Female,2,Fair,20,30GB Monthly Broadband Plan,9000,10,154.13,No,
+971,67,Kebbi,4G Router,Male,4,Very Good,31,165GB Monthly Plan,35000,15,144.64,Yes,High Call Tarriffs
+972,67,Kebbi,Mobile SIM Card,Male,4,Very Good,31,7GB Monthly Plan,3500,11,158.49,Yes,High Call Tarriffs
+973,67,Kebbi,Broadband MiFi,Male,4,Very Good,31,150GB FUP Monthly Unlimited,20000,14,86.04,Yes,High Call Tarriffs
